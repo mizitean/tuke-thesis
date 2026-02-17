@@ -1,0 +1,70 @@
+NODE;YEAR;SCENARIO;TECHNOLOGY;CAPEX [_/MW];OPEX[_/MW/a];EFFICIENCY
+All;2030;Distributed Energy;Batteries Prosumer;1713970,00;42849,00;
+All;2030;Distributed Energy;Batteries Utility;709315,00;17733,00;
+All;2030;Distributed Energy;Electrolyzer Offshore;1300000,00;7,00;0,69
+All;2030;Distributed Energy;Electrolyzer Onshore;1010000,00;5,00;0,69
+All;2030;Distributed Energy;Solar CSP;0,00;0,00;
+All;2030;Distributed Energy;Solar PV Rooftop;712800,00;10593,00;
+All;2030;Distributed Energy;Solar PV Utility;376200,00;9405,00;
+ITSI;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+ITSA;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+ITS1;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+ITN1;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+ITCS;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+ITCN;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+ITCA;2030;Distributed Energy;Solar PV Utility;417780,00;9940,00;
+All;2030;Distributed Energy;Wind Offshore Fixed AC Radial ;1818000,00;58580,00;
+All;2030;Distributed Energy;Wind Offshore Fixed DC Radial ;2494700,00;73730,00;
+All;2030;Distributed Energy;Wind Offshore Fixed Hub;2080600,00;65650,00;
+All;2030;Distributed Energy;Wind Offshore Fixed Hub H2;2333100,00;93930,00;
+All;2030;Distributed Energy;Wind Offshore Floating  Hub;3349766,00;98475,00;
+All;2030;Distributed Energy;Wind Offshore Floating  Hub H2;3756291,00;140895,00;
+All;2030;Distributed Energy;Wind Offshore Floating AC Radial ;2926980,00;87870,00;
+All;2030;Distributed Energy;Wind Offshore Floating DC Radial ;4016467,00;110595,00;
+All;2030;Distributed Energy;Wind Onshore;1029600,00;12474,00;
+All;2030;Global Ambition;Batteries Prosumer;1748596,00;43715,00;
+All;2030;Global Ambition;Batteries Utility;723645,00;18091,00;
+All;2030;Global Ambition;Electrolyzer Offshore;1300000,00;7,00;0,69
+All;2030;Global Ambition;Electrolyzer Onshore;1010000,00;5,00;0,69
+All;2030;Global Ambition;Solar CSP;0,00;0,00;
+All;2030;Global Ambition;Solar PV Rooftop;727200,00;10807,00;
+All;2030;Global Ambition;Solar PV Utility;383800,00;9595,00;
+ITSI;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+ITSA;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+ITS1;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+ITN1;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+ITCS;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+ITCN;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+ITCA;2030;Global Ambition;Solar PV Utility;426220,00;10140,00;
+All;2030;Global Ambition;Wind Offshore Fixed AC Radial ;1782000,00;57420,00;
+All;2030;Global Ambition;Wind Offshore Fixed DC Radial ;2445300,00;72270,00;
+All;2030;Global Ambition;Wind Offshore Fixed Hub;2039400,00;64350,00;
+All;2030;Global Ambition;Wind Offshore Fixed Hub H2;2286900,00;92070,00;
+All;2030;Global Ambition;Wind Offshore Floating  Hub;3283434,00;96525,00;
+All;2030;Global Ambition;Wind Offshore Floating  Hub H2;3681909,00;138105,00;
+All;2030;Global Ambition;Wind Offshore Floating AC Radial ;2869020,00;86130,00;
+All;2030;Global Ambition;Wind Offshore Floating DC Radial ;3936933,00;108405,00;
+All;2030;Global Ambition;Wind Onshore;1050400,00;12726,00;
+All;2030;National Trends;Batteries Prosumer;1731283,00;43282,00;
+All;2030;National Trends;Batteries Utility;716480,00;17912,00;
+All;2030;National Trends;Electrolyzer Offshore;1300000,00;7,00;0,69
+All;2030;National Trends;Electrolyzer Onshore;1010000,00;5,00;0,69
+All;2030;National Trends;Solar CSP;0,00;0,00;
+All;2030;National Trends;Solar PV Rooftop;720000,00;10700,00;
+All;2030;National Trends;Solar PV Utility;380000,00;9500,00;
+ITSI;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+ITSA;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+ITS1;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+ITN1;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+ITCS;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+ITCN;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+ITCA;2030;National Trends;Solar PV Utility;422000,00;10040,00;
+All;2030;National Trends;Wind Offshore Fixed AC Radial ;1800000,00;58000,00;
+All;2030;National Trends;Wind Offshore Fixed DC Radial ;2470000,00;73000,00;
+All;2030;National Trends;Wind Offshore Fixed Hub;2060000,00;65000,00;
+All;2030;National Trends;Wind Offshore Fixed Hub H2;2310000,00;93000,00;
+All;2030;National Trends;Wind Offshore Floating  Hub;3316600,00;97500,00;
+All;2030;National Trends;Wind Offshore Floating  Hub H2;3719100,00;139500,00;
+All;2030;National Trends;Wind Offshore Floating AC Radial ;2898000,00;87000,00;
+All;2030;National Trends;Wind Offshore Floating DC Radial ;3976700,00;109500,00;
+All;2030;National Trends;Wind Onshore;1040000,00;12600,00;

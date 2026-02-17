@@ -1,0 +1,70 @@
+index_carrier,carrier,pypsa_carrier,fuel_type,emission_type,costs_technology,efficiency,vom_eur_mwh,fom_eur_mw_year,fuel_price_eur_gj,fuel_price_eur_mwh,co2_kg_gj,co2_tco2_mwh,marginal_cost_eur_mwh
+battery-charge,battery,battery,renewable,renewable,battery inverter,0.96,0.0,0.3375,0.0,0.0,0.0,0.0,0.0
+battery-discharge,battery,battery,renewable,renewable,battery inverter,0.96,0.0,0.3375,0.0,0.0,0.0,0.0,0.0
+battery-store,battery,battery,renewable,renewable,battery storage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+chp-gas-ccgt-ccs-other-65.2870588235294eur,chp,other-thermal,gas,gas-ccs,gas-ccgt-ccs,0.58,4.4445,3.3494,6.3,22.68,5.7,0.02052,47.55996206896552
+chp-gas-ccgt-new-other-77.04000000000002eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-1-industrial-200eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-1-industrial-520eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-1-other-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-1-other-509.9999999999999eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-1-other-530eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-1-other-70.65eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-2-other-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-old-2-other-58.87500000000006eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-present-2-other-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ccgt-present-2-other-79.69655172413793eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-1-district-heatring-128.4eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-1-industrial-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-1-other-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-1-other-128.4eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-1-other-210eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-2-industrial-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-conventional-old-2-other-0eur,chp,other-thermal,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+chp-gas-ocgt-old-other-0eur,chp,other-thermal,gas,gas,OCGT,0.41,4.762,1.7795,6.3,22.68,51.57,0.185652,111.42769951219513
+chp-gas-ocgt-old-other-82.34285714285716eur,chp,other-thermal,gas,gas,OCGT,0.41,4.762,1.7795,6.3,22.68,51.57,0.185652,111.42769951219513
+chp-hard-coal-ccs-other-29.72842105263158eur,chp,other-thermal,coal,coal-ccs,coal-ccs,0.356,3.2612,1.31,1.8,6.48,9.4,0.03384,32.24281797752809
+chp-hard-coal-new-other-70.90434782608693eur,chp,other-thermal,coal,coal,coal,0.356,3.2612,1.31,1.8,6.48,94.0,0.33840000000000003,129.25715505617978
+chp-hard-coal-old-1-other-0eur,chp,other-thermal,coal,coal,coal,0.356,3.2612,1.31,1.8,6.48,94.0,0.33840000000000003,129.25715505617978
+chp-hard-coal-old-1-other-93.18857142857145eur,chp,other-thermal,coal,coal,coal,0.356,3.2612,1.31,1.8,6.48,94.0,0.33840000000000003,129.25715505617978
+chp-hard-coal-old-2-other-81.53999999999998eur,chp,other-thermal,coal,coal,coal,0.356,3.2612,1.31,1.8,6.48,94.0,0.33840000000000003,129.25715505617978
+chp-heavy-oil-old-2-industrial-0eur,chp,other-thermal,oil-heavy,oil-heavy,oil-heavy,0.35,6.3493,2.463,9.6,34.56,78.0,0.2808,196.07135714285715
+chp-heavy-oil-old-2-other-0eur,chp,other-thermal,oil-heavy,oil-heavy,oil-heavy,0.35,6.3493,2.463,9.6,34.56,78.0,0.2808,196.07135714285715
+chp-light-oil---industrial-0eur,chp,other-thermal,oil-light,oil-light,oil-light,0.35,6.3493,2.463,11.7,42.12,78.0,0.2808,217.67135714285715
+chp-lignite-new-other-0eur,chp,other-thermal,lignite,lignite,lignite,0.33,3.2612,1.31,1.8,6.48,101.0,0.36360000000000003,147.84374545454546
+chp-lignite-old-1-other-0eur,chp,other-thermal,lignite,lignite,lignite,0.33,3.2612,1.31,1.8,6.48,101.0,0.36360000000000003,147.84374545454546
+chp-oil-shale-old-industrial-0eur,chp,other-thermal,oil-shale,oil-shale,oil-shale,0.35,6.3493,2.463,1.9,6.84,100.0,0.36,142.53215714285716
+coal,coal,coal,coal,coal,coal,0.356,3.2612,1.31,1.8,6.48,94.0,0.33840000000000003,129.25715505617978
+coal-ccs,coal,coal-ccs,coal,coal-ccs,coal-ccs,0.356,3.2612,1.31,1.8,6.48,9.4,0.03384,32.24281797752809
+electrolyser-onshore-grid,electrolyser,electrolyser,renewable,renewable,electrolysis,0.68,0.0,4.0,0.0,0.0,0.0,0.0,0.0
+gas-ccgt,gas,gas,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+gas-ccgt-ccs,gas,gas-ccs,gas,gas-ccs,gas-ccgt-ccs,0.58,4.4445,3.3494,6.3,22.68,5.7,0.02052,47.55996206896552
+gas-conv,gas,gas,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
+gas-ocgt,gas,gas,gas,gas,OCGT,0.41,4.762,1.7795,6.3,22.68,51.57,0.185652,111.42769951219513
+h2-ccgt,h2-ccgt,h2,h2,h2,central hydrogen CHP,0.5,0.0,5.0,17.6,63.36000000000001,0.0,0.0,126.72000000000001
+h2-fuel-cell,h2-fuel-cell,h2,h2,h2,fuel cell,0.5,0.0,5.0,17.6,63.36000000000001,0.0,0.0,126.72000000000001
+hydro-phs-pump,hydro-phs,hydro-phs,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-phs-pure-pump,hydro-phs-pure,hydro-phs-pure,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-phs-pure-reservoir,hydro-phs-pure,hydro-phs-pure,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-phs-pure-turbine,hydro-phs-pure,hydro-phs-pure,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-phs-reservoir,hydro-phs,hydro-phs,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-phs-turbine,hydro-phs,hydro-phs,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-pondage-reservoir,hydro-pondage,hydro-pondage,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-pondage-turbine,hydro-pondage,hydro-pondage,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-reservoir-reservoir,hydro-reservoir,hydro-reservoir,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-reservoir-turbine,hydro-reservoir,hydro-reservoir,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+hydro-ror-turbine,hydro-ror,hydro-ror,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+lignite,lignite,lignite,lignite,lignite,lignite,0.33,3.2612,1.31,1.8,6.48,101.0,0.36360000000000003,147.84374545454546
+lignite-ccs,lignite,lignite-ccs,lignite,lignite-ccs,lignite-ccs,0.33,3.2612,1.31,1.8,6.48,10.1,0.036359999999999996,35.39218181818182
+nuclear,uranium,nuclear,nuclear,nuclear,nuclear,0.326,3.5464,1.27,1.7,6.12,0.0,0.0,22.319406134969327
+offwind,offwind,offwind,renewable,renewable,offwind,1.0,0.0212,2.3185,0.0,0.0,0.0,0.0,0.0212
+oil-heavy,oil-heavy,oil-heavy,oil-heavy,oil-heavy,oil-heavy,0.35,6.3493,2.463,9.6,34.56,78.0,0.2808,196.07135714285715
+oil-light,oil-light,oil-light,oil-light,oil-light,oil-light,0.35,6.3493,2.463,11.7,42.12,78.0,0.2808,217.67135714285715
+oil-shale,oil-shale,oil-shale,oil-shale,oil-shale,oil-shale,0.35,6.3493,2.463,1.9,6.84,100.0,0.36,142.53215714285716
+onwind,onwind,onwind,renewable,renewable,onwind,1.0,1.4286,1.2167,0.0,0.0,0.0,0.0,1.4286
+other-res,other-res,other-res,renewable,renewable,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+solar-pv-rooftop,solar-pv-rooftop,solar-pv-rooftop,renewable,renewable,solar-rooftop,1.0,0.0,1.4234,0.0,0.0,0.0,0.0,0.0
+solar-pv-utility,solar-pv-utility,solar-pv-utility,renewable,renewable,solar,1.0,0.0106,1.9495,0.0,0.0,0.0,0.0,0.0106
+solar-thermal,solar-thermal,solar-thermal,renewable,renewable,central solar thermal,1.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0
+solar-thermal-w-storage,solar-thermal-w-storage,solar-thermal-w-storage,renewable,renewable,central solar thermal,1.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0
+solar-thermal-w-storage-storage,solar-thermal-w-storage,solar-thermal-w-storage,renewable,renewable,central solar thermal,1.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0

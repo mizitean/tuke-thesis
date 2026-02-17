@@ -1,0 +1,25 @@
+carrier,co2_emissions_kg_gj,co2_emissions_tco2_mwh,color,nice_name
+battery,0.0,0.0,#b8ea04,Battery
+chp,0.0,0.0,#b45f04,Combined Heat & Power
+coal,94.0,0.33840000000000003,#545454,Hard Coal
+electrolyser,0.0,0.0,#4a90e2,Electrolyser
+gas,51.57,0.185652,#d35050,Natural Gas
+h2-ccgt,0.0,0.0,#da5bef,Hydrogen CCGT
+h2-fuel-cell,0.0,0.0,#ea6bff,Hydrogen Fuel Cell
+hydro-phs,0.0,0.0,#0a5c51,Hydro Pumped Storage
+hydro-phs-pure,0.0,0.0,#094c41,Hydro PHS Pure
+hydro-pondage,0.0,0.0,#0b6c61,Hydro Pondage
+hydro-reservoir,0.0,0.0,#1a7c71,Hydro Reservoir
+hydro-ror,0.0,0.0,#298c81,Hydro ROR
+lignite,101.0,0.36360000000000003,#826837,Lignite
+offwind,0.0,0.0,#6fa8dc,Offshore Wind
+oil-heavy,78.0,0.2808,#6e3e00,Heavy Oil
+oil-light,78.0,0.2808,#8e5e20,Light Oil
+oil-shale,100.0,0.36,#4e2e10,Oil Shale
+onwind,0.0,0.0,#3b6182,Onshore Wind
+other-res,0.0,0.0,#0c6013,Other Renewables
+solar-pv-rooftop,0.0,0.0,#f9d002,Solar PV Rooftop
+solar-pv-utility,0.0,0.0,#f9c002,Solar PV Utility
+solar-thermal,0.0,0.0,#f9a002,Solar Thermal
+solar-thermal-w-storage,0.0,0.0,#f98002,Solar Thermal w/ Storage
+uranium,0.0,0.0,#ff9000,Nuclear

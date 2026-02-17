@@ -1,0 +1,2461 @@
+NODE;SCENARIO;TECHNOLOGY;YEAR;MIN CAPACITY [MW];MAX CAPACITY [MW]
+AL00;Distributed Energy;Nuclear;2030;0;0
+AL00;Distributed Energy;Nuclear;2035;0;0
+AL00;Distributed Energy;Nuclear;2040;0;0
+AL00;Distributed Energy;Nuclear;2045;0;0
+AL00;Distributed Energy;Nuclear;2050;0;0
+AT00;Distributed Energy;Nuclear;2030;0;0
+AT00;Distributed Energy;Nuclear;2035;0;0
+AT00;Distributed Energy;Nuclear;2040;0;0
+AT00;Distributed Energy;Nuclear;2045;0;0
+AT00;Distributed Energy;Nuclear;2050;0;0
+BA00;Distributed Energy;Nuclear;2030;0;0
+BA00;Distributed Energy;Nuclear;2035;0;0
+BA00;Distributed Energy;Nuclear;2040;0;0
+BA00;Distributed Energy;Nuclear;2045;0;0
+BA00;Distributed Energy;Nuclear;2050;0;0
+BE00;Distributed Energy;Nuclear;2030;2077;2077
+BE00;Distributed Energy;Nuclear;2035;1039;1039
+BE00;Distributed Energy;Nuclear;2040;0;0
+BE00;Distributed Energy;Nuclear;2045;0;0
+BE00;Distributed Energy;Nuclear;2050;0;0
+BG00;Distributed Energy;Nuclear;2030;2000;2000
+BG00;Distributed Energy;Nuclear;2035;2000;2000
+BG00;Distributed Energy;Nuclear;2040;2000;2000
+BG00;Distributed Energy;Nuclear;2045;1500;1500
+BG00;Distributed Energy;Nuclear;2050;1000;1000
+CH00;Distributed Energy;Nuclear;2030;1190;1190
+CH00;Distributed Energy;Nuclear;2035;595;595
+CH00;Distributed Energy;Nuclear;2040;0;0
+CH00;Distributed Energy;Nuclear;2045;0;0
+CH00;Distributed Energy;Nuclear;2050;0;0
+CY00;Distributed Energy;Nuclear;2030;0;0
+CY00;Distributed Energy;Nuclear;2035;0;0
+CY00;Distributed Energy;Nuclear;2040;0;0
+CY00;Distributed Energy;Nuclear;2045;0;0
+CY00;Distributed Energy;Nuclear;2050;0;0
+CZ00;Distributed Energy;Nuclear;2030;4047;4047
+CZ00;Distributed Energy;Nuclear;2035;4617;4617
+CZ00;Distributed Energy;Nuclear;2040;5187;5187
+CZ00;Distributed Energy;Nuclear;2045;4232;4232
+CZ00;Distributed Energy;Nuclear;2050;3278;3278
+DE00;Distributed Energy;Nuclear;2030;0;0
+DE00;Distributed Energy;Nuclear;2035;0;0
+DE00;Distributed Energy;Nuclear;2040;0;0
+DE00;Distributed Energy;Nuclear;2045;0;0
+DE00;Distributed Energy;Nuclear;2050;0;0
+DEKF;Distributed Energy;Nuclear;2030;0;0
+DEKF;Distributed Energy;Nuclear;2035;0;0
+DEKF;Distributed Energy;Nuclear;2040;0;0
+DEKF;Distributed Energy;Nuclear;2045;0;0
+DEKF;Distributed Energy;Nuclear;2050;0;0
+DKE1;Distributed Energy;Nuclear;2030;0;0
+DKE1;Distributed Energy;Nuclear;2035;0;0
+DKE1;Distributed Energy;Nuclear;2040;0;0
+DKE1;Distributed Energy;Nuclear;2045;0;0
+DKE1;Distributed Energy;Nuclear;2050;0;0
+DKKF;Distributed Energy;Nuclear;2030;0;0
+DKKF;Distributed Energy;Nuclear;2035;0;0
+DKKF;Distributed Energy;Nuclear;2040;0;0
+DKKF;Distributed Energy;Nuclear;2045;0;0
+DKKF;Distributed Energy;Nuclear;2050;0;0
+DKW1;Distributed Energy;Nuclear;2030;0;0
+DKW1;Distributed Energy;Nuclear;2035;0;0
+DKW1;Distributed Energy;Nuclear;2040;0;0
+DKW1;Distributed Energy;Nuclear;2045;0;0
+DKW1;Distributed Energy;Nuclear;2050;0;0
+EE00;Distributed Energy;Nuclear;2030;0;0
+EE00;Distributed Energy;Nuclear;2035;0;0
+EE00;Distributed Energy;Nuclear;2040;0;0
+EE00;Distributed Energy;Nuclear;2045;0;0
+EE00;Distributed Energy;Nuclear;2050;0;0
+ES00;Distributed Energy;Nuclear;2030;5100;5100
+ES00;Distributed Energy;Nuclear;2035;2550;2550
+ES00;Distributed Energy;Nuclear;2040;0;0
+ES00;Distributed Energy;Nuclear;2045;0;0
+ES00;Distributed Energy;Nuclear;2050;0;0
+FI00;Distributed Energy;Nuclear;2030;3887;3887
+FI00;Distributed Energy;Nuclear;2035;3251;3251
+FI00;Distributed Energy;Nuclear;2040;2614;2614
+FI00;Distributed Energy;Nuclear;2045;2107;2107
+FI00;Distributed Energy;Nuclear;2050;1600;1600
+FR00;Distributed Energy;Nuclear;2030;59400;59400
+FR00;Distributed Energy;Nuclear;2035;54700;54700
+FR00;Distributed Energy;Nuclear;2040;50000;50000
+FR00;Distributed Energy;Nuclear;2045;39073;39073
+FR00;Distributed Energy;Nuclear;2050;28145;28145
+GR00;Distributed Energy;Nuclear;2030;0;0
+GR00;Distributed Energy;Nuclear;2035;0;0
+GR00;Distributed Energy;Nuclear;2040;0;0
+GR00;Distributed Energy;Nuclear;2045;0;0
+GR00;Distributed Energy;Nuclear;2050;0;0
+GR03;Distributed Energy;Nuclear;2030;0;0
+GR03;Distributed Energy;Nuclear;2035;0;0
+GR03;Distributed Energy;Nuclear;2040;0;0
+GR03;Distributed Energy;Nuclear;2045;0;0
+GR03;Distributed Energy;Nuclear;2050;0;0
+HR00;Distributed Energy;Nuclear;2030;0;0
+HR00;Distributed Energy;Nuclear;2035;0;0
+HR00;Distributed Energy;Nuclear;2040;0;0
+HR00;Distributed Energy;Nuclear;2045;0;0
+HR00;Distributed Energy;Nuclear;2050;0;0
+HU00;Distributed Energy;Nuclear;2030;1917;1917
+HU00;Distributed Energy;Nuclear;2035;2139;2139
+HU00;Distributed Energy;Nuclear;2040;2360;2360
+HU00;Distributed Energy;Nuclear;2045;2360;2360
+HU00;Distributed Energy;Nuclear;2050;2360;2360
+IE00;Distributed Energy;Nuclear;2030;0;0
+IE00;Distributed Energy;Nuclear;2035;0;0
+IE00;Distributed Energy;Nuclear;2040;0;0
+IE00;Distributed Energy;Nuclear;2045;0;0
+IE00;Distributed Energy;Nuclear;2050;0;0
+ITCA;Distributed Energy;Nuclear;2030;0;0
+ITCA;Distributed Energy;Nuclear;2035;0;0
+ITCA;Distributed Energy;Nuclear;2040;0;0
+ITCA;Distributed Energy;Nuclear;2045;0;0
+ITCA;Distributed Energy;Nuclear;2050;0;0
+ITCN;Distributed Energy;Nuclear;2030;0;0
+ITCN;Distributed Energy;Nuclear;2035;0;0
+ITCN;Distributed Energy;Nuclear;2040;0;0
+ITCN;Distributed Energy;Nuclear;2045;0;0
+ITCN;Distributed Energy;Nuclear;2050;0;0
+ITCS;Distributed Energy;Nuclear;2030;0;0
+ITCS;Distributed Energy;Nuclear;2035;0;0
+ITCS;Distributed Energy;Nuclear;2040;0;0
+ITCS;Distributed Energy;Nuclear;2045;0;0
+ITCS;Distributed Energy;Nuclear;2050;0;0
+ITN1;Distributed Energy;Nuclear;2030;0;0
+ITN1;Distributed Energy;Nuclear;2035;0;0
+ITN1;Distributed Energy;Nuclear;2040;0;0
+ITN1;Distributed Energy;Nuclear;2045;0;0
+ITN1;Distributed Energy;Nuclear;2050;0;0
+ITS1;Distributed Energy;Nuclear;2030;0;0
+ITS1;Distributed Energy;Nuclear;2035;0;0
+ITS1;Distributed Energy;Nuclear;2040;0;0
+ITS1;Distributed Energy;Nuclear;2045;0;0
+ITS1;Distributed Energy;Nuclear;2050;0;0
+ITSA;Distributed Energy;Nuclear;2030;0;0
+ITSA;Distributed Energy;Nuclear;2035;0;0
+ITSA;Distributed Energy;Nuclear;2040;0;0
+ITSA;Distributed Energy;Nuclear;2045;0;0
+ITSA;Distributed Energy;Nuclear;2050;0;0
+ITSI;Distributed Energy;Nuclear;2030;0;0
+ITSI;Distributed Energy;Nuclear;2035;0;0
+ITSI;Distributed Energy;Nuclear;2040;0;0
+ITSI;Distributed Energy;Nuclear;2045;0;0
+ITSI;Distributed Energy;Nuclear;2050;0;0
+LT00;Distributed Energy;Nuclear;2030;0;0
+LT00;Distributed Energy;Nuclear;2035;0;0
+LT00;Distributed Energy;Nuclear;2040;0;0
+LT00;Distributed Energy;Nuclear;2045;0;0
+LT00;Distributed Energy;Nuclear;2050;0;0
+LUB1;Distributed Energy;Nuclear;2030;0;0
+LUB1;Distributed Energy;Nuclear;2035;0;0
+LUB1;Distributed Energy;Nuclear;2040;0;0
+LUB1;Distributed Energy;Nuclear;2045;0;0
+LUB1;Distributed Energy;Nuclear;2050;0;0
+LUF1;Distributed Energy;Nuclear;2030;0;0
+LUF1;Distributed Energy;Nuclear;2035;0;0
+LUF1;Distributed Energy;Nuclear;2040;0;0
+LUF1;Distributed Energy;Nuclear;2045;0;0
+LUF1;Distributed Energy;Nuclear;2050;0;0
+LUG1;Distributed Energy;Nuclear;2030;0;0
+LUG1;Distributed Energy;Nuclear;2035;0;0
+LUG1;Distributed Energy;Nuclear;2040;0;0
+LUG1;Distributed Energy;Nuclear;2045;0;0
+LUG1;Distributed Energy;Nuclear;2050;0;0
+LUV1;Distributed Energy;Nuclear;2030;0;0
+LUV1;Distributed Energy;Nuclear;2035;0;0
+LUV1;Distributed Energy;Nuclear;2040;0;0
+LUV1;Distributed Energy;Nuclear;2045;0;0
+LUV1;Distributed Energy;Nuclear;2050;0;0
+LV00;Distributed Energy;Nuclear;2030;0;0
+LV00;Distributed Energy;Nuclear;2035;0;0
+LV00;Distributed Energy;Nuclear;2040;0;0
+LV00;Distributed Energy;Nuclear;2045;0;0
+LV00;Distributed Energy;Nuclear;2050;0;0
+ME00;Distributed Energy;Nuclear;2030;0;0
+ME00;Distributed Energy;Nuclear;2035;0;0
+ME00;Distributed Energy;Nuclear;2040;0;0
+ME00;Distributed Energy;Nuclear;2045;0;0
+ME00;Distributed Energy;Nuclear;2050;0;0
+MK00;Distributed Energy;Nuclear;2030;0;0
+MK00;Distributed Energy;Nuclear;2035;0;0
+MK00;Distributed Energy;Nuclear;2040;0;0
+MK00;Distributed Energy;Nuclear;2045;0;0
+MK00;Distributed Energy;Nuclear;2050;0;0
+MT00;Distributed Energy;Nuclear;2030;0;0
+MT00;Distributed Energy;Nuclear;2035;0;0
+MT00;Distributed Energy;Nuclear;2040;0;0
+MT00;Distributed Energy;Nuclear;2045;0;0
+MT00;Distributed Energy;Nuclear;2050;0;0
+NL00;Distributed Energy;Nuclear;2030;486;486
+NL00;Distributed Energy;Nuclear;2035;243;243
+NL00;Distributed Energy;Nuclear;2040;0;0
+NL00;Distributed Energy;Nuclear;2045;0;0
+NL00;Distributed Energy;Nuclear;2050;0;0
+NOM1;Distributed Energy;Nuclear;2030;0;0
+NOM1;Distributed Energy;Nuclear;2035;0;0
+NOM1;Distributed Energy;Nuclear;2040;0;0
+NOM1;Distributed Energy;Nuclear;2045;0;0
+NOM1;Distributed Energy;Nuclear;2050;0;0
+NON1;Distributed Energy;Nuclear;2030;0;0
+NON1;Distributed Energy;Nuclear;2035;0;0
+NON1;Distributed Energy;Nuclear;2040;0;0
+NON1;Distributed Energy;Nuclear;2045;0;0
+NON1;Distributed Energy;Nuclear;2050;0;0
+NOS0;Distributed Energy;Nuclear;2030;0;0
+NOS0;Distributed Energy;Nuclear;2035;0;0
+NOS0;Distributed Energy;Nuclear;2040;0;0
+NOS0;Distributed Energy;Nuclear;2045;0;0
+NOS0;Distributed Energy;Nuclear;2050;0;0
+PL00;Distributed Energy;Nuclear;2030;0;0
+PL00;Distributed Energy;Nuclear;2035;2220;2220
+PL00;Distributed Energy;Nuclear;2040;4440;4440
+PL00;Distributed Energy;Nuclear;2045;5550;5550
+PL00;Distributed Energy;Nuclear;2050;6660;6660
+PT00;Distributed Energy;Nuclear;2030;0;0
+PT00;Distributed Energy;Nuclear;2035;0;0
+PT00;Distributed Energy;Nuclear;2040;0;0
+PT00;Distributed Energy;Nuclear;2045;0;0
+PT00;Distributed Energy;Nuclear;2050;0;0
+RO00;Distributed Energy;Nuclear;2030;1300;1300
+RO00;Distributed Energy;Nuclear;2035;1300;1300
+RO00;Distributed Energy;Nuclear;2040;1300;1300
+RO00;Distributed Energy;Nuclear;2045;1300;1300
+RO00;Distributed Energy;Nuclear;2050;1300;1300
+RS00;Distributed Energy;Nuclear;2030;0;0
+RS00;Distributed Energy;Nuclear;2035;0;0
+RS00;Distributed Energy;Nuclear;2040;0;0
+RS00;Distributed Energy;Nuclear;2045;0;0
+RS00;Distributed Energy;Nuclear;2050;0;0
+SE01;Distributed Energy;Nuclear;2030;0;0
+SE01;Distributed Energy;Nuclear;2035;0;0
+SE01;Distributed Energy;Nuclear;2040;0;0
+SE01;Distributed Energy;Nuclear;2045;0;0
+SE01;Distributed Energy;Nuclear;2050;0;0
+SE02;Distributed Energy;Nuclear;2030;0;0
+SE02;Distributed Energy;Nuclear;2035;0;0
+SE02;Distributed Energy;Nuclear;2040;0;0
+SE02;Distributed Energy;Nuclear;2045;0;0
+SE02;Distributed Energy;Nuclear;2050;0;0
+SE03;Distributed Energy;Nuclear;2030;5900;5900
+SE03;Distributed Energy;Nuclear;2035;4800;4800
+SE03;Distributed Energy;Nuclear;2040;3700;3700
+SE03;Distributed Energy;Nuclear;2045;1850;1850
+SE03;Distributed Energy;Nuclear;2050;0;0
+SE04;Distributed Energy;Nuclear;2030;0;0
+SE04;Distributed Energy;Nuclear;2035;0;0
+SE04;Distributed Energy;Nuclear;2040;0;0
+SE04;Distributed Energy;Nuclear;2045;0;0
+SE04;Distributed Energy;Nuclear;2050;0;0
+SI00;Distributed Energy;Nuclear;2030;696;696
+SI00;Distributed Energy;Nuclear;2035;348;348
+SI00;Distributed Energy;Nuclear;2040;0;0
+SI00;Distributed Energy;Nuclear;2045;0;0
+SI00;Distributed Energy;Nuclear;2050;0;0
+SK00;Distributed Energy;Nuclear;2030;2815;2815
+SK00;Distributed Energy;Nuclear;2035;2822;2822
+SK00;Distributed Energy;Nuclear;2040;2830;2830
+SK00;Distributed Energy;Nuclear;2045;2830;2830
+SK00;Distributed Energy;Nuclear;2050;2830;2830
+UK00;Distributed Energy;Nuclear;2030;4500;4500
+UK00;Distributed Energy;Nuclear;2035;4500;4500
+UK00;Distributed Energy;Nuclear;2040;4500;4500
+UK00;Distributed Energy;Nuclear;2045;5000;5000
+UK00;Distributed Energy;Nuclear;2050;5500;5500
+UKNI;Distributed Energy;Nuclear;2030;0;0
+UKNI;Distributed Energy;Nuclear;2035;0;0
+UKNI;Distributed Energy;Nuclear;2040;0;0
+UKNI;Distributed Energy;Nuclear;2045;0;0
+UKNI;Distributed Energy;Nuclear;2050;0;0
+AL00;National Trends;Nuclear;2030;0;0
+AL00;National Trends;Nuclear;2035;0;0
+AL00;National Trends;Nuclear;2040;0;0
+AL00;National Trends;Nuclear;2045;0;0
+AL00;National Trends;Nuclear;2050;0;0
+AT00;National Trends;Nuclear;2030;0;0
+AT00;National Trends;Nuclear;2035;0;0
+AT00;National Trends;Nuclear;2040;0;0
+AT00;National Trends;Nuclear;2045;0;0
+AT00;National Trends;Nuclear;2050;0;0
+BA00;National Trends;Nuclear;2030;0;0
+BA00;National Trends;Nuclear;2035;0;0
+BA00;National Trends;Nuclear;2040;0;0
+BA00;National Trends;Nuclear;2045;0;0
+BA00;National Trends;Nuclear;2050;0;0
+BE00;National Trends;Nuclear;2030;2077;2077
+BE00;National Trends;Nuclear;2035;1039;1039
+BE00;National Trends;Nuclear;2040;0;0
+BE00;National Trends;Nuclear;2045;0;0
+BE00;National Trends;Nuclear;2050;0;0
+BG00;National Trends;Nuclear;2030;2000;2000
+BG00;National Trends;Nuclear;2035;3000;3000
+BG00;National Trends;Nuclear;2040;4000;4000
+BG00;National Trends;Nuclear;2045;4000;4000
+BG00;National Trends;Nuclear;2050;4000;4000
+CH00;National Trends;Nuclear;2030;1190;1190
+CH00;National Trends;Nuclear;2035;595;595
+CH00;National Trends;Nuclear;2040;0;0
+CH00;National Trends;Nuclear;2045;0;0
+CH00;National Trends;Nuclear;2050;0;0
+CY00;National Trends;Nuclear;2030;0;0
+CY00;National Trends;Nuclear;2035;0;0
+CY00;National Trends;Nuclear;2040;0;0
+CY00;National Trends;Nuclear;2045;0;0
+CY00;National Trends;Nuclear;2050;0;0
+CZ00;National Trends;Nuclear;2030;4047;4047
+CZ00;National Trends;Nuclear;2035;4617;4617
+CZ00;National Trends;Nuclear;2040;5187;5187
+CZ00;National Trends;Nuclear;2045;5187;5187
+CZ00;National Trends;Nuclear;2050;5187;5187
+DE00;National Trends;Nuclear;2030;0;0
+DE00;National Trends;Nuclear;2035;0;0
+DE00;National Trends;Nuclear;2040;0;0
+DE00;National Trends;Nuclear;2045;0;0
+DE00;National Trends;Nuclear;2050;0;0
+DEKF;National Trends;Nuclear;2030;0;0
+DEKF;National Trends;Nuclear;2035;0;0
+DEKF;National Trends;Nuclear;2040;0;0
+DEKF;National Trends;Nuclear;2045;0;0
+DEKF;National Trends;Nuclear;2050;0;0
+DKE1;National Trends;Nuclear;2030;0;0
+DKE1;National Trends;Nuclear;2035;0;0
+DKE1;National Trends;Nuclear;2040;0;0
+DKE1;National Trends;Nuclear;2045;0;0
+DKE1;National Trends;Nuclear;2050;0;0
+DKKF;National Trends;Nuclear;2030;0;0
+DKKF;National Trends;Nuclear;2035;0;0
+DKKF;National Trends;Nuclear;2040;0;0
+DKKF;National Trends;Nuclear;2045;0;0
+DKKF;National Trends;Nuclear;2050;0;0
+DKW1;National Trends;Nuclear;2030;0;0
+DKW1;National Trends;Nuclear;2035;0;0
+DKW1;National Trends;Nuclear;2040;0;0
+DKW1;National Trends;Nuclear;2045;0;0
+DKW1;National Trends;Nuclear;2050;0;0
+EE00;National Trends;Nuclear;2030;0;0
+EE00;National Trends;Nuclear;2035;0;0
+EE00;National Trends;Nuclear;2040;0;0
+EE00;National Trends;Nuclear;2045;0;0
+EE00;National Trends;Nuclear;2050;0;0
+ES00;National Trends;Nuclear;2030;5100;5100
+ES00;National Trends;Nuclear;2035;2550;2550
+ES00;National Trends;Nuclear;2040;0;0
+ES00;National Trends;Nuclear;2045;0;0
+ES00;National Trends;Nuclear;2050;0;0
+FI00;National Trends;Nuclear;2030;4394;4394
+FI00;National Trends;Nuclear;2035;4394;4394
+FI00;National Trends;Nuclear;2040;4394;4394
+FI00;National Trends;Nuclear;2045;4394;4394
+FI00;National Trends;Nuclear;2050;4394;4394
+FR00;National Trends;Nuclear;2030;61761;61761
+FR00;National Trends;Nuclear;2035;62334;62334
+FR00;National Trends;Nuclear;2040;62907;62907
+FR00;National Trends;Nuclear;2045;62907;62907
+FR00;National Trends;Nuclear;2050;62907;62907
+GR00;National Trends;Nuclear;2030;0;0
+GR00;National Trends;Nuclear;2035;0;0
+GR00;National Trends;Nuclear;2040;0;0
+GR00;National Trends;Nuclear;2045;0;0
+GR00;National Trends;Nuclear;2050;0;0
+GR03;National Trends;Nuclear;2030;0;0
+GR03;National Trends;Nuclear;2035;0;0
+GR03;National Trends;Nuclear;2040;0;0
+GR03;National Trends;Nuclear;2045;0;0
+GR03;National Trends;Nuclear;2050;0;0
+HR00;National Trends;Nuclear;2030;0;0
+HR00;National Trends;Nuclear;2035;0;0
+HR00;National Trends;Nuclear;2040;0;0
+HR00;National Trends;Nuclear;2045;0;0
+HR00;National Trends;Nuclear;2050;0;0
+HU00;National Trends;Nuclear;2030;3097;3097
+HU00;National Trends;Nuclear;2035;3687;3687
+HU00;National Trends;Nuclear;2040;4277;4277
+HU00;National Trends;Nuclear;2045;4277;4277
+HU00;National Trends;Nuclear;2050;4277;4277
+IE00;National Trends;Nuclear;2030;0;0
+IE00;National Trends;Nuclear;2035;0;0
+IE00;National Trends;Nuclear;2040;0;0
+IE00;National Trends;Nuclear;2045;0;0
+IE00;National Trends;Nuclear;2050;0;0
+ITCA;National Trends;Nuclear;2030;0;0
+ITCA;National Trends;Nuclear;2035;0;0
+ITCA;National Trends;Nuclear;2040;0;0
+ITCA;National Trends;Nuclear;2045;0;0
+ITCA;National Trends;Nuclear;2050;0;0
+ITCN;National Trends;Nuclear;2030;0;0
+ITCN;National Trends;Nuclear;2035;0;0
+ITCN;National Trends;Nuclear;2040;0;0
+ITCN;National Trends;Nuclear;2045;0;0
+ITCN;National Trends;Nuclear;2050;0;0
+ITCS;National Trends;Nuclear;2030;0;0
+ITCS;National Trends;Nuclear;2035;0;0
+ITCS;National Trends;Nuclear;2040;0;0
+ITCS;National Trends;Nuclear;2045;0;0
+ITCS;National Trends;Nuclear;2050;0;0
+ITN1;National Trends;Nuclear;2030;0;0
+ITN1;National Trends;Nuclear;2035;0;0
+ITN1;National Trends;Nuclear;2040;0;0
+ITN1;National Trends;Nuclear;2045;0;0
+ITN1;National Trends;Nuclear;2050;0;0
+ITS1;National Trends;Nuclear;2030;0;0
+ITS1;National Trends;Nuclear;2035;0;0
+ITS1;National Trends;Nuclear;2040;0;0
+ITS1;National Trends;Nuclear;2045;0;0
+ITS1;National Trends;Nuclear;2050;0;0
+ITSA;National Trends;Nuclear;2030;0;0
+ITSA;National Trends;Nuclear;2035;0;0
+ITSA;National Trends;Nuclear;2040;0;0
+ITSA;National Trends;Nuclear;2045;0;0
+ITSA;National Trends;Nuclear;2050;0;0
+ITSI;National Trends;Nuclear;2030;0;0
+ITSI;National Trends;Nuclear;2035;0;0
+ITSI;National Trends;Nuclear;2040;0;0
+ITSI;National Trends;Nuclear;2045;0;0
+ITSI;National Trends;Nuclear;2050;0;0
+LT00;National Trends;Nuclear;2030;0;0
+LT00;National Trends;Nuclear;2035;0;0
+LT00;National Trends;Nuclear;2040;0;0
+LT00;National Trends;Nuclear;2045;0;0
+LT00;National Trends;Nuclear;2050;0;0
+LUB1;National Trends;Nuclear;2030;0;0
+LUB1;National Trends;Nuclear;2035;0;0
+LUB1;National Trends;Nuclear;2040;0;0
+LUB1;National Trends;Nuclear;2045;0;0
+LUB1;National Trends;Nuclear;2050;0;0
+LUF1;National Trends;Nuclear;2030;0;0
+LUF1;National Trends;Nuclear;2035;0;0
+LUF1;National Trends;Nuclear;2040;0;0
+LUF1;National Trends;Nuclear;2045;0;0
+LUF1;National Trends;Nuclear;2050;0;0
+LUG1;National Trends;Nuclear;2030;0;0
+LUG1;National Trends;Nuclear;2035;0;0
+LUG1;National Trends;Nuclear;2040;0;0
+LUG1;National Trends;Nuclear;2045;0;0
+LUG1;National Trends;Nuclear;2050;0;0
+LUV1;National Trends;Nuclear;2030;0;0
+LUV1;National Trends;Nuclear;2035;0;0
+LUV1;National Trends;Nuclear;2040;0;0
+LUV1;National Trends;Nuclear;2045;0;0
+LUV1;National Trends;Nuclear;2050;0;0
+LV00;National Trends;Nuclear;2030;0;0
+LV00;National Trends;Nuclear;2035;0;0
+LV00;National Trends;Nuclear;2040;0;0
+LV00;National Trends;Nuclear;2045;0;0
+LV00;National Trends;Nuclear;2050;0;0
+ME00;National Trends;Nuclear;2030;0;0
+ME00;National Trends;Nuclear;2035;0;0
+ME00;National Trends;Nuclear;2040;0;0
+ME00;National Trends;Nuclear;2045;0;0
+ME00;National Trends;Nuclear;2050;0;0
+MK00;National Trends;Nuclear;2030;0;0
+MK00;National Trends;Nuclear;2035;0;0
+MK00;National Trends;Nuclear;2040;0;0
+MK00;National Trends;Nuclear;2045;0;0
+MK00;National Trends;Nuclear;2050;0;0
+MT00;National Trends;Nuclear;2030;0;0
+MT00;National Trends;Nuclear;2035;0;0
+MT00;National Trends;Nuclear;2040;0;0
+MT00;National Trends;Nuclear;2045;0;0
+MT00;National Trends;Nuclear;2050;0;0
+NL00;National Trends;Nuclear;2030;486;486
+NL00;National Trends;Nuclear;2035;243;243
+NL00;National Trends;Nuclear;2040;0;0
+NL00;National Trends;Nuclear;2045;0;0
+NL00;National Trends;Nuclear;2050;0;0
+NOM1;National Trends;Nuclear;2030;0;0
+NOM1;National Trends;Nuclear;2035;0;0
+NOM1;National Trends;Nuclear;2040;0;0
+NOM1;National Trends;Nuclear;2045;0;0
+NOM1;National Trends;Nuclear;2050;0;0
+NON1;National Trends;Nuclear;2030;0;0
+NON1;National Trends;Nuclear;2035;0;0
+NON1;National Trends;Nuclear;2040;0;0
+NON1;National Trends;Nuclear;2045;0;0
+NON1;National Trends;Nuclear;2050;0;0
+NOS0;National Trends;Nuclear;2030;0;0
+NOS0;National Trends;Nuclear;2035;0;0
+NOS0;National Trends;Nuclear;2040;0;0
+NOS0;National Trends;Nuclear;2045;0;0
+NOS0;National Trends;Nuclear;2050;0;0
+PL00;National Trends;Nuclear;2030;0;0
+PL00;National Trends;Nuclear;2035;2220;2220
+PL00;National Trends;Nuclear;2040;4440;4440
+PL00;National Trends;Nuclear;2045;4440;4440
+PL00;National Trends;Nuclear;2050;4440;4440
+PT00;National Trends;Nuclear;2030;0;0
+PT00;National Trends;Nuclear;2035;0;0
+PT00;National Trends;Nuclear;2040;0;0
+PT00;National Trends;Nuclear;2045;0;0
+PT00;National Trends;Nuclear;2050;0;0
+RO00;National Trends;Nuclear;2030;1739;1739
+RO00;National Trends;Nuclear;2035;2413;2413
+RO00;National Trends;Nuclear;2040;3087;3087
+RO00;National Trends;Nuclear;2045;3087;3087
+RO00;National Trends;Nuclear;2050;3087;3087
+RS00;National Trends;Nuclear;2030;0;0
+RS00;National Trends;Nuclear;2035;0;0
+RS00;National Trends;Nuclear;2040;0;0
+RS00;National Trends;Nuclear;2045;0;0
+RS00;National Trends;Nuclear;2050;0;0
+SE01;National Trends;Nuclear;2030;0;0
+SE01;National Trends;Nuclear;2035;0;0
+SE01;National Trends;Nuclear;2040;0;0
+SE01;National Trends;Nuclear;2045;0;0
+SE01;National Trends;Nuclear;2050;0;0
+SE02;National Trends;Nuclear;2030;0;0
+SE02;National Trends;Nuclear;2035;0;0
+SE02;National Trends;Nuclear;2040;0;0
+SE02;National Trends;Nuclear;2045;0;0
+SE02;National Trends;Nuclear;2050;0;0
+SE03;National Trends;Nuclear;2030;6883;6883
+SE03;National Trends;Nuclear;2035;6388;6388
+SE03;National Trends;Nuclear;2040;5893;5893
+SE03;National Trends;Nuclear;2045;5893;5893
+SE03;National Trends;Nuclear;2050;5893;5893
+SE04;National Trends;Nuclear;2030;0;0
+SE04;National Trends;Nuclear;2035;0;0
+SE04;National Trends;Nuclear;2040;0;0
+SE04;National Trends;Nuclear;2045;0;0
+SE04;National Trends;Nuclear;2050;0;0
+SI00;National Trends;Nuclear;2030;696;696
+SI00;National Trends;Nuclear;2035;696;696
+SI00;National Trends;Nuclear;2040;696;696
+SI00;National Trends;Nuclear;2045;696;696
+SI00;National Trends;Nuclear;2050;696;696
+SK00;National Trends;Nuclear;2030;2815;2815
+SK00;National Trends;Nuclear;2035;2822;2822
+SK00;National Trends;Nuclear;2040;2830;2830
+SK00;National Trends;Nuclear;2045;2830;2830
+SK00;National Trends;Nuclear;2050;2830;2830
+UK00;National Trends;Nuclear;2030;5510;5510
+UK00;National Trends;Nuclear;2035;9373;9373
+UK00;National Trends;Nuclear;2040;13236;13236
+UK00;National Trends;Nuclear;2045;13236;13236
+UK00;National Trends;Nuclear;2050;13236;13236
+UKNI;National Trends;Nuclear;2030;0;0
+UKNI;National Trends;Nuclear;2035;0;0
+UKNI;National Trends;Nuclear;2040;0;0
+UKNI;National Trends;Nuclear;2045;0;0
+UKNI;National Trends;Nuclear;2050;0;0
+AL00;Global Ambition;Nuclear;2030;0;0
+AL00;Global Ambition;Nuclear;2035;0;0
+AL00;Global Ambition;Nuclear;2040;0;0
+AL00;Global Ambition;Nuclear;2045;0;0
+AL00;Global Ambition;Nuclear;2050;0;0
+AT00;Global Ambition;Nuclear;2030;0;0
+AT00;Global Ambition;Nuclear;2035;0;0
+AT00;Global Ambition;Nuclear;2040;0;0
+AT00;Global Ambition;Nuclear;2045;0;0
+AT00;Global Ambition;Nuclear;2050;0;0
+BA00;Global Ambition;Nuclear;2030;0;0
+BA00;Global Ambition;Nuclear;2035;0;0
+BA00;Global Ambition;Nuclear;2040;0;0
+BA00;Global Ambition;Nuclear;2045;0;0
+BA00;Global Ambition;Nuclear;2050;0;0
+BE00;Global Ambition;Nuclear;2030;2077;2077
+BE00;Global Ambition;Nuclear;2035;1039;1039
+BE00;Global Ambition;Nuclear;2040;0;0
+BE00;Global Ambition;Nuclear;2045;0;0
+BE00;Global Ambition;Nuclear;2050;0;0
+BG00;Global Ambition;Nuclear;2030;2000;2000
+BG00;Global Ambition;Nuclear;2035;3000;3000
+BG00;Global Ambition;Nuclear;2040;4000;4000
+BG00;Global Ambition;Nuclear;2045;3000;3000
+BG00;Global Ambition;Nuclear;2050;2000;2000
+CH00;Global Ambition;Nuclear;2030;1190;1190
+CH00;Global Ambition;Nuclear;2035;595;595
+CH00;Global Ambition;Nuclear;2040;0;0
+CH00;Global Ambition;Nuclear;2045;0;0
+CH00;Global Ambition;Nuclear;2050;0;0
+CY00;Global Ambition;Nuclear;2030;0;0
+CY00;Global Ambition;Nuclear;2035;0;0
+CY00;Global Ambition;Nuclear;2040;0;0
+CY00;Global Ambition;Nuclear;2045;0;0
+CY00;Global Ambition;Nuclear;2050;0;0
+CZ00;Global Ambition;Nuclear;2030;4047;4047
+CZ00;Global Ambition;Nuclear;2035;5900;5900
+CZ00;Global Ambition;Nuclear;2040;7752;7752
+CZ00;Global Ambition;Nuclear;2045;7367;7367
+CZ00;Global Ambition;Nuclear;2050;6983;6983
+DE00;Global Ambition;Nuclear;2030;0;0
+DE00;Global Ambition;Nuclear;2035;0;0
+DE00;Global Ambition;Nuclear;2040;0;0
+DE00;Global Ambition;Nuclear;2045;0;0
+DE00;Global Ambition;Nuclear;2050;0;0
+DEKF;Global Ambition;Nuclear;2030;0;0
+DEKF;Global Ambition;Nuclear;2035;0;0
+DEKF;Global Ambition;Nuclear;2040;0;0
+DEKF;Global Ambition;Nuclear;2045;0;0
+DEKF;Global Ambition;Nuclear;2050;0;0
+DKE1;Global Ambition;Nuclear;2030;0;0
+DKE1;Global Ambition;Nuclear;2035;0;0
+DKE1;Global Ambition;Nuclear;2040;0;0
+DKE1;Global Ambition;Nuclear;2045;0;0
+DKE1;Global Ambition;Nuclear;2050;0;0
+DKKF;Global Ambition;Nuclear;2030;0;0
+DKKF;Global Ambition;Nuclear;2035;0;0
+DKKF;Global Ambition;Nuclear;2040;0;0
+DKKF;Global Ambition;Nuclear;2045;0;0
+DKKF;Global Ambition;Nuclear;2050;0;0
+DKW1;Global Ambition;Nuclear;2030;0;0
+DKW1;Global Ambition;Nuclear;2035;0;0
+DKW1;Global Ambition;Nuclear;2040;0;0
+DKW1;Global Ambition;Nuclear;2045;0;0
+DKW1;Global Ambition;Nuclear;2050;0;0
+EE00;Global Ambition;Nuclear;2030;0;0
+EE00;Global Ambition;Nuclear;2035;0;0
+EE00;Global Ambition;Nuclear;2040;0;0
+EE00;Global Ambition;Nuclear;2045;0;0
+EE00;Global Ambition;Nuclear;2050;0;0
+ES00;Global Ambition;Nuclear;2030;5100;5100
+ES00;Global Ambition;Nuclear;2035;2550;2550
+ES00;Global Ambition;Nuclear;2040;0;0
+ES00;Global Ambition;Nuclear;2045;0;0
+ES00;Global Ambition;Nuclear;2050;0;0
+FI00;Global Ambition;Nuclear;2030;4394;4394
+FI00;Global Ambition;Nuclear;2035;6394;6394
+FI00;Global Ambition;Nuclear;2040;8394;8394
+FI00;Global Ambition;Nuclear;2045;9197;9197
+FI00;Global Ambition;Nuclear;2050;10000;10000
+FR00;Global Ambition;Nuclear;2030;63000;63000
+FR00;Global Ambition;Nuclear;2035;64500;64500
+FR00;Global Ambition;Nuclear;2040;66000;66000
+FR00;Global Ambition;Nuclear;2045;58070;58070
+FR00;Global Ambition;Nuclear;2050;50139;50139
+GR00;Global Ambition;Nuclear;2030;0;0
+GR00;Global Ambition;Nuclear;2035;0;0
+GR00;Global Ambition;Nuclear;2040;0;0
+GR00;Global Ambition;Nuclear;2045;0;0
+GR00;Global Ambition;Nuclear;2050;0;0
+GR03;Global Ambition;Nuclear;2030;0;0
+GR03;Global Ambition;Nuclear;2035;0;0
+GR03;Global Ambition;Nuclear;2040;0;0
+GR03;Global Ambition;Nuclear;2045;0;0
+GR03;Global Ambition;Nuclear;2050;0;0
+HR00;Global Ambition;Nuclear;2030;0;0
+HR00;Global Ambition;Nuclear;2035;0;0
+HR00;Global Ambition;Nuclear;2040;0;0
+HR00;Global Ambition;Nuclear;2045;0;0
+HR00;Global Ambition;Nuclear;2050;0;0
+HU00;Global Ambition;Nuclear;2030;3097;3097
+HU00;Global Ambition;Nuclear;2035;3687;3687
+HU00;Global Ambition;Nuclear;2040;4277;4277
+HU00;Global Ambition;Nuclear;2045;3319;3319
+HU00;Global Ambition;Nuclear;2050;2360;2360
+IE00;Global Ambition;Nuclear;2030;0;0
+IE00;Global Ambition;Nuclear;2035;0;0
+IE00;Global Ambition;Nuclear;2040;0;0
+IE00;Global Ambition;Nuclear;2045;0;0
+IE00;Global Ambition;Nuclear;2050;0;0
+ITCA;Global Ambition;Nuclear;2030;0;0
+ITCA;Global Ambition;Nuclear;2035;0;0
+ITCA;Global Ambition;Nuclear;2040;0;0
+ITCA;Global Ambition;Nuclear;2045;0;0
+ITCA;Global Ambition;Nuclear;2050;0;0
+ITCN;Global Ambition;Nuclear;2030;0;0
+ITCN;Global Ambition;Nuclear;2035;0;0
+ITCN;Global Ambition;Nuclear;2040;0;0
+ITCN;Global Ambition;Nuclear;2045;0;0
+ITCN;Global Ambition;Nuclear;2050;0;0
+ITCS;Global Ambition;Nuclear;2030;0;0
+ITCS;Global Ambition;Nuclear;2035;0;0
+ITCS;Global Ambition;Nuclear;2040;0;0
+ITCS;Global Ambition;Nuclear;2045;0;0
+ITCS;Global Ambition;Nuclear;2050;0;0
+ITN1;Global Ambition;Nuclear;2030;0;0
+ITN1;Global Ambition;Nuclear;2035;0;0
+ITN1;Global Ambition;Nuclear;2040;0;0
+ITN1;Global Ambition;Nuclear;2045;0;0
+ITN1;Global Ambition;Nuclear;2050;0;0
+ITS1;Global Ambition;Nuclear;2030;0;0
+ITS1;Global Ambition;Nuclear;2035;0;0
+ITS1;Global Ambition;Nuclear;2040;0;0
+ITS1;Global Ambition;Nuclear;2045;0;0
+ITS1;Global Ambition;Nuclear;2050;0;0
+ITSA;Global Ambition;Nuclear;2030;0;0
+ITSA;Global Ambition;Nuclear;2035;0;0
+ITSA;Global Ambition;Nuclear;2040;0;0
+ITSA;Global Ambition;Nuclear;2045;0;0
+ITSA;Global Ambition;Nuclear;2050;0;0
+ITSI;Global Ambition;Nuclear;2030;0;0
+ITSI;Global Ambition;Nuclear;2035;0;0
+ITSI;Global Ambition;Nuclear;2040;0;0
+ITSI;Global Ambition;Nuclear;2045;0;0
+ITSI;Global Ambition;Nuclear;2050;0;0
+LT00;Global Ambition;Nuclear;2030;0;0
+LT00;Global Ambition;Nuclear;2035;0;0
+LT00;Global Ambition;Nuclear;2040;0;0
+LT00;Global Ambition;Nuclear;2045;0;0
+LT00;Global Ambition;Nuclear;2050;0;0
+LUB1;Global Ambition;Nuclear;2030;0;0
+LUB1;Global Ambition;Nuclear;2035;0;0
+LUB1;Global Ambition;Nuclear;2040;0;0
+LUB1;Global Ambition;Nuclear;2045;0;0
+LUB1;Global Ambition;Nuclear;2050;0;0
+LUF1;Global Ambition;Nuclear;2030;0;0
+LUF1;Global Ambition;Nuclear;2035;0;0
+LUF1;Global Ambition;Nuclear;2040;0;0
+LUF1;Global Ambition;Nuclear;2045;0;0
+LUF1;Global Ambition;Nuclear;2050;0;0
+LUG1;Global Ambition;Nuclear;2030;0;0
+LUG1;Global Ambition;Nuclear;2035;0;0
+LUG1;Global Ambition;Nuclear;2040;0;0
+LUG1;Global Ambition;Nuclear;2045;0;0
+LUG1;Global Ambition;Nuclear;2050;0;0
+LUV1;Global Ambition;Nuclear;2030;0;0
+LUV1;Global Ambition;Nuclear;2035;0;0
+LUV1;Global Ambition;Nuclear;2040;0;0
+LUV1;Global Ambition;Nuclear;2045;0;0
+LUV1;Global Ambition;Nuclear;2050;0;0
+LV00;Global Ambition;Nuclear;2030;0;0
+LV00;Global Ambition;Nuclear;2035;0;0
+LV00;Global Ambition;Nuclear;2040;0;0
+LV00;Global Ambition;Nuclear;2045;0;0
+LV00;Global Ambition;Nuclear;2050;0;0
+ME00;Global Ambition;Nuclear;2030;0;0
+ME00;Global Ambition;Nuclear;2035;0;0
+ME00;Global Ambition;Nuclear;2040;0;0
+ME00;Global Ambition;Nuclear;2045;0;0
+ME00;Global Ambition;Nuclear;2050;0;0
+MK00;Global Ambition;Nuclear;2030;0;0
+MK00;Global Ambition;Nuclear;2035;0;0
+MK00;Global Ambition;Nuclear;2040;0;0
+MK00;Global Ambition;Nuclear;2045;0;0
+MK00;Global Ambition;Nuclear;2050;0;0
+MT00;Global Ambition;Nuclear;2030;0;0
+MT00;Global Ambition;Nuclear;2035;0;0
+MT00;Global Ambition;Nuclear;2040;0;0
+MT00;Global Ambition;Nuclear;2045;0;0
+MT00;Global Ambition;Nuclear;2050;0;0
+NL00;Global Ambition;Nuclear;2030;486;486
+NL00;Global Ambition;Nuclear;2035;1743;1743
+NL00;Global Ambition;Nuclear;2040;3000;3000
+NL00;Global Ambition;Nuclear;2045;4500;4500
+NL00;Global Ambition;Nuclear;2050;6000;6000
+NOM1;Global Ambition;Nuclear;2030;0;0
+NOM1;Global Ambition;Nuclear;2035;0;0
+NOM1;Global Ambition;Nuclear;2040;0;0
+NOM1;Global Ambition;Nuclear;2045;0;0
+NOM1;Global Ambition;Nuclear;2050;0;0
+NON1;Global Ambition;Nuclear;2030;0;0
+NON1;Global Ambition;Nuclear;2035;0;0
+NON1;Global Ambition;Nuclear;2040;0;0
+NON1;Global Ambition;Nuclear;2045;0;0
+NON1;Global Ambition;Nuclear;2050;0;0
+NOS0;Global Ambition;Nuclear;2030;0;0
+NOS0;Global Ambition;Nuclear;2035;0;0
+NOS0;Global Ambition;Nuclear;2040;0;0
+NOS0;Global Ambition;Nuclear;2045;0;0
+NOS0;Global Ambition;Nuclear;2050;0;0
+PL00;Global Ambition;Nuclear;2030;1120;1120
+PL00;Global Ambition;Nuclear;2035;4875;4875
+PL00;Global Ambition;Nuclear;2040;8630;8630
+PL00;Global Ambition;Nuclear;2045;11815;11815
+PL00;Global Ambition;Nuclear;2050;15000;15000
+PT00;Global Ambition;Nuclear;2030;0;0
+PT00;Global Ambition;Nuclear;2035;0;0
+PT00;Global Ambition;Nuclear;2040;0;0
+PT00;Global Ambition;Nuclear;2045;0;0
+PT00;Global Ambition;Nuclear;2050;0;0
+RO00;Global Ambition;Nuclear;2030;2413;2413
+RO00;Global Ambition;Nuclear;2035;2750;2750
+RO00;Global Ambition;Nuclear;2040;3087;3087
+RO00;Global Ambition;Nuclear;2045;3087;3087
+RO00;Global Ambition;Nuclear;2050;3087;3087
+RS00;Global Ambition;Nuclear;2030;0;0
+RS00;Global Ambition;Nuclear;2035;0;0
+RS00;Global Ambition;Nuclear;2040;0;0
+RS00;Global Ambition;Nuclear;2045;0;0
+RS00;Global Ambition;Nuclear;2050;0;0
+SE01;Global Ambition;Nuclear;2030;0;0
+SE01;Global Ambition;Nuclear;2035;900;900
+SE01;Global Ambition;Nuclear;2040;1800;1800
+SE01;Global Ambition;Nuclear;2045;3300;3300
+SE01;Global Ambition;Nuclear;2050;4800;4800
+SE02;Global Ambition;Nuclear;2030;0;0
+SE02;Global Ambition;Nuclear;2035;0;0
+SE02;Global Ambition;Nuclear;2040;0;0
+SE02;Global Ambition;Nuclear;2045;0;0
+SE02;Global Ambition;Nuclear;2050;0;0
+SE03;Global Ambition;Nuclear;2030;7700;7700
+SE03;Global Ambition;Nuclear;2035;8350;8350
+SE03;Global Ambition;Nuclear;2040;9000;9000
+SE03;Global Ambition;Nuclear;2045;10300;10300
+SE03;Global Ambition;Nuclear;2050;11600;11600
+SE04;Global Ambition;Nuclear;2030;0;0
+SE04;Global Ambition;Nuclear;2035;0;0
+SE04;Global Ambition;Nuclear;2040;0;0
+SE04;Global Ambition;Nuclear;2045;0;0
+SE04;Global Ambition;Nuclear;2050;0;0
+SI00;Global Ambition;Nuclear;2030;696;696
+SI00;Global Ambition;Nuclear;2035;898;898
+SI00;Global Ambition;Nuclear;2040;1100;1100
+SI00;Global Ambition;Nuclear;2045;1100;1100
+SI00;Global Ambition;Nuclear;2050;1100;1100
+SK00;Global Ambition;Nuclear;2030;2815;2815
+SK00;Global Ambition;Nuclear;2035;2822;2822
+SK00;Global Ambition;Nuclear;2040;2830;2830
+SK00;Global Ambition;Nuclear;2045;2963;2963
+SK00;Global Ambition;Nuclear;2050;3096;3096
+UK00;Global Ambition;Nuclear;2030;8000;8000
+UK00;Global Ambition;Nuclear;2035;11250;11250
+UK00;Global Ambition;Nuclear;2040;14500;14500
+UK00;Global Ambition;Nuclear;2045;15250;15250
+UK00;Global Ambition;Nuclear;2050;16000;16000
+UKNI;Global Ambition;Nuclear;2030;0;0
+UKNI;Global Ambition;Nuclear;2035;0;0
+UKNI;Global Ambition;Nuclear;2040;0;0
+UKNI;Global Ambition;Nuclear;2045;0;0
+UKNI;Global Ambition;Nuclear;2050;0;0
+AL00;All;Wind Onshore;2030;280;280
+AL00;All;Wind Onshore;2035;440;440
+AL00;All;Wind Onshore;2040;600;600
+AL00;All;Wind Onshore;2045;600;600
+AL00;All;Wind Onshore;2050;600;600
+AT00;All;Wind Onshore;2030;7500;11096
+AT00;All;Wind Onshore;2035;7500;22018
+AT00;All;Wind Onshore;2040;7500;32939
+AT00;All;Wind Onshore;2045;7500;37042
+AT00;All;Wind Onshore;2050;7500;41145
+BA00;All;Wind Onshore;2030;787;787
+BA00;All;Wind Onshore;2035;1152;1152
+BA00;All;Wind Onshore;2040;1517;1517
+BA00;All;Wind Onshore;2045;1767;1767
+BA00;All;Wind Onshore;2050;2017;2017
+BE00;All;Wind Onshore;2030;4900;5300
+BE00;All;Wind Onshore;2035;4900;8900
+BE00;All;Wind Onshore;2040;6500;9450
+BE00;All;Wind Onshore;2045;7243;9725
+BE00;All;Wind Onshore;2050;7986;10000
+BG00;All;Wind Onshore;2030;800;1896
+BG00;All;Wind Onshore;2035;1000;2759
+BG00;All;Wind Onshore;2040;1200;3622
+BG00;All;Wind Onshore;2045;1875;6311
+BG00;All;Wind Onshore;2050;2550;9000
+CH00;All;Wind Onshore;2030;180;310
+CH00;All;Wind Onshore;2035;180;730
+CH00;All;Wind Onshore;2040;180;1150
+CH00;All;Wind Onshore;2045;839;1687
+CH00;All;Wind Onshore;2050;1498;2223
+CY00;All;Wind Onshore;2030;158;200
+CY00;All;Wind Onshore;2035;158;250
+CY00;All;Wind Onshore;2040;158;300
+CY00;All;Wind Onshore;2045;153;350
+CY00;All;Wind Onshore;2050;148;400
+CZ00;All;Wind Onshore;2030;741;1665
+CZ00;All;Wind Onshore;2035;941;2538
+CZ00;All;Wind Onshore;2040;1141;3411
+CZ00;All;Wind Onshore;2045;2149;3949
+CZ00;All;Wind Onshore;2050;3156;4486
+DE00;All;Wind Onshore;2030;115000;115000
+DE00;All;Wind Onshore;2035;136938;141750
+DE00;All;Wind Onshore;2040;158875;168500
+DE00;All;Wind Onshore;2045;160000;180000
+DE00;All;Wind Onshore;2050;161125;191500
+DEKF;All;Wind Onshore;2030;0;0
+DEKF;All;Wind Onshore;2035;0;0
+DEKF;All;Wind Onshore;2040;0;0
+DEKF;All;Wind Onshore;2045;0;0
+DEKF;All;Wind Onshore;2050;0;0
+DKE1;All;Wind Onshore;2030;500;1995
+DKE1;All;Wind Onshore;2035;500;1995
+DKE1;All;Wind Onshore;2040;500;1995
+DKE1;All;Wind Onshore;2045;500;1995
+DKE1;All;Wind Onshore;2050;500;1995
+DKKF;All;Wind Onshore;2030;0;0
+DKKF;All;Wind Onshore;2035;0;0
+DKKF;All;Wind Onshore;2040;0;0
+DKKF;All;Wind Onshore;2045;0;0
+DKKF;All;Wind Onshore;2050;0;0
+DKW1;All;Wind Onshore;2030;3500;10505
+DKW1;All;Wind Onshore;2035;3500;10505
+DKW1;All;Wind Onshore;2040;3500;10505
+DKW1;All;Wind Onshore;2045;3500;10505
+DKW1;All;Wind Onshore;2050;3500;10505
+EE00;All;Wind Onshore;2030;634;1200
+EE00;All;Wind Onshore;2035;665;1850
+EE00;All;Wind Onshore;2040;696;2500
+EE00;All;Wind Onshore;2045;779;3100
+EE00;All;Wind Onshore;2050;861;3700
+ES00;All;Wind Onshore;2030;45400;57200
+ES00;All;Wind Onshore;2035;55400;75050
+ES00;All;Wind Onshore;2040;65400;92900
+ES00;All;Wind Onshore;2045;70400;98659
+ES00;All;Wind Onshore;2050;75400;104418
+FI00;All;Wind Onshore;2030;13000;26000
+FI00;All;Wind Onshore;2035;13000;46000
+FI00;All;Wind Onshore;2040;13000;66000
+FI00;All;Wind Onshore;2045;13000;86000
+FI00;All;Wind Onshore;2050;13000;106000
+FR00;All;Wind Onshore;2030;28000;39000
+FR00;All;Wind Onshore;2035;29250;50000
+FR00;All;Wind Onshore;2040;30500;61000
+FR00;All;Wind Onshore;2045;35250;70500
+FR00;All;Wind Onshore;2050;40000;80000
+GR00;All;Wind Onshore;2030;6589;10000
+GR00;All;Wind Onshore;2035;6794;12500
+GR00;All;Wind Onshore;2040;7000;15000
+GR00;All;Wind Onshore;2045;8500;20000
+GR00;All;Wind Onshore;2050;10000;25000
+GR03;All;Wind Onshore;2030;500;2500
+GR03;All;Wind Onshore;2035;650;2500
+GR03;All;Wind Onshore;2040;800;2500
+GR03;All;Wind Onshore;2045;900;2500
+GR03;All;Wind Onshore;2050;1000;2500
+HR00;All;Wind Onshore;2030;1500;1800
+HR00;All;Wind Onshore;2035;1750;2150
+HR00;All;Wind Onshore;2040;2000;2500
+HR00;All;Wind Onshore;2045;2000;2750
+HR00;All;Wind Onshore;2050;2000;3000
+HU00;All;Wind Onshore;2030;334;1080
+HU00;All;Wind Onshore;2035;167;1540
+HU00;All;Wind Onshore;2040;0;2000
+HU00;All;Wind Onshore;2045;0;2500
+HU00;All;Wind Onshore;2050;0;3000
+IE00;All;Wind Onshore;2030;7000;8975
+IE00;All;Wind Onshore;2035;7000;9342
+IE00;All;Wind Onshore;2040;7000;9708
+IE00;All;Wind Onshore;2045;7000;10508
+IE00;All;Wind Onshore;2050;7000;11308
+ITCA;All;Wind Onshore;2030;1623;1893
+ITCA;All;Wind Onshore;2035;1713;1938
+ITCA;All;Wind Onshore;2040;1803;1983
+ITCA;All;Wind Onshore;2045;1803;2570
+ITCA;All;Wind Onshore;2050;1803;3156
+ITCN;All;Wind Onshore;2030;382;445
+ITCN;All;Wind Onshore;2035;403;585
+ITCN;All;Wind Onshore;2040;424;725
+ITCN;All;Wind Onshore;2045;542;939
+ITCN;All;Wind Onshore;2050;659;1153
+ITCS;All;Wind Onshore;2030;2801;3268
+ITCS;All;Wind Onshore;2035;2957;4658
+ITCS;All;Wind Onshore;2040;3112;6048
+ITCS;All;Wind Onshore;2045;4305;7836
+ITCS;All;Wind Onshore;2050;5498;9623
+ITN1;All;Wind Onshore;2030;254;296
+ITN1;All;Wind Onshore;2035;268;710
+ITN1;All;Wind Onshore;2040;282;1124
+ITN1;All;Wind Onshore;2045;652;1457
+ITN1;All;Wind Onshore;2050;1022;1789
+ITS1;All;Wind Onshore;2030;7180;8377
+ITS1;All;Wind Onshore;2035;7579;8577
+ITS1;All;Wind Onshore;2040;7978;8776
+ITS1;All;Wind Onshore;2045;7978;11370
+ITS1;All;Wind Onshore;2050;7978;13964
+ITSA;All;Wind Onshore;2030;1674;1953
+ITSA;All;Wind Onshore;2035;1767;2000
+ITSA;All;Wind Onshore;2040;1860;2046
+ITSA;All;Wind Onshore;2045;1860;2651
+ITSA;All;Wind Onshore;2050;1860;3256
+ITSI;All;Wind Onshore;2030;2657;3100
+ITSI;All;Wind Onshore;2035;2805;3886
+ITSI;All;Wind Onshore;2040;2952;4671
+ITSI;All;Wind Onshore;2045;3599;6052
+ITSI;All;Wind Onshore;2050;4246;7432
+LT00;All;Wind Onshore;2030;5000;5000
+LT00;All;Wind Onshore;2035;5215;5215
+LT00;All;Wind Onshore;2040;5430;5430
+LT00;All;Wind Onshore;2045;5540;5540
+LT00;All;Wind Onshore;2050;5650;5650
+LUB1;All;Wind Onshore;2030;0;0
+LUB1;All;Wind Onshore;2035;0;0
+LUB1;All;Wind Onshore;2040;0;0
+LUB1;All;Wind Onshore;2045;0;0
+LUB1;All;Wind Onshore;2050;0;0
+LUF1;All;Wind Onshore;2030;0;0
+LUF1;All;Wind Onshore;2035;0;0
+LUF1;All;Wind Onshore;2040;0;0
+LUF1;All;Wind Onshore;2045;0;0
+LUF1;All;Wind Onshore;2050;0;0
+LUG1;All;Wind Onshore;2030;0;400
+LUG1;All;Wind Onshore;2035;0;450
+LUG1;All;Wind Onshore;2040;0;500
+LUG1;All;Wind Onshore;2045;0;550
+LUG1;All;Wind Onshore;2050;0;600
+LUV1;All;Wind Onshore;2030;0;0
+LUV1;All;Wind Onshore;2035;0;0
+LUV1;All;Wind Onshore;2040;0;0
+LUV1;All;Wind Onshore;2045;0;0
+LUV1;All;Wind Onshore;2050;0;0
+LV00;All;Wind Onshore;2030;237;450
+LV00;All;Wind Onshore;2035;295;500
+LV00;All;Wind Onshore;2040;352;550
+LV00;All;Wind Onshore;2045;352;600
+LV00;All;Wind Onshore;2050;352;650
+ME00;All;Wind Onshore;2030;0;254
+ME00;All;Wind Onshore;2035;0;254
+ME00;All;Wind Onshore;2040;0;254
+ME00;All;Wind Onshore;2045;0;254
+ME00;All;Wind Onshore;2050;0;254
+MK00;All;Wind Onshore;2030;180;1100
+MK00;All;Wind Onshore;2035;310;1300
+MK00;All;Wind Onshore;2040;440;1500
+MK00;All;Wind Onshore;2045;440;1500
+MK00;All;Wind Onshore;2050;440;1500
+MT00;All;Wind Onshore;2030;0;0
+MT00;All;Wind Onshore;2035;0;0
+MT00;All;Wind Onshore;2040;0;0
+MT00;All;Wind Onshore;2045;0;0
+MT00;All;Wind Onshore;2050;0;0
+NL00;All;Wind Onshore;2030;7500;10300
+NL00;All;Wind Onshore;2035;8100;12700
+NL00;All;Wind Onshore;2040;8700;15100
+NL00;All;Wind Onshore;2045;9350;17550
+NL00;All;Wind Onshore;2050;10000;20000
+NOM1;All;Wind Onshore;2030;2401;2425
+NOM1;All;Wind Onshore;2035;2413;2425
+NOM1;All;Wind Onshore;2040;2425;2425
+NOM1;All;Wind Onshore;2045;2425;2425
+NOM1;All;Wind Onshore;2050;2425;2425
+NON1;All;Wind Onshore;2030;1108;1108
+NON1;All;Wind Onshore;2035;1483;1483
+NON1;All;Wind Onshore;2040;1858;1858
+NON1;All;Wind Onshore;2045;1858;1858
+NON1;All;Wind Onshore;2050;1858;1858
+NOS0;All;Wind Onshore;2030;1798;2261
+NOS0;All;Wind Onshore;2035;1929;2451
+NOS0;All;Wind Onshore;2040;2061;2641
+NOS0;All;Wind Onshore;2045;2161;2641
+NOS0;All;Wind Onshore;2050;2261;2641
+PL00;All;Wind Onshore;2030;10806;19000
+PL00;All;Wind Onshore;2035;10806;29500
+PL00;All;Wind Onshore;2040;10806;40000
+PL00;All;Wind Onshore;2045;10806;51000
+PL00;All;Wind Onshore;2050;10806;62000
+PT00;All;Wind Onshore;2030;8700;10000
+PT00;All;Wind Onshore;2035;9581;11500
+PT00;All;Wind Onshore;2040;10463;13000
+PT00;All;Wind Onshore;2045;10463;13000
+PT00;All;Wind Onshore;2050;10463;13000
+RO00;All;Wind Onshore;2030;5255;6500
+RO00;All;Wind Onshore;2035;5628;7500
+RO00;All;Wind Onshore;2040;6000;8500
+RO00;All;Wind Onshore;2045;6000;8750
+RO00;All;Wind Onshore;2050;6000;9000
+RS00;All;Wind Onshore;2030;4282;4812
+RS00;All;Wind Onshore;2035;4282;4812
+RS00;All;Wind Onshore;2040;4282;4812
+RS00;All;Wind Onshore;2045;4282;4812
+RS00;All;Wind Onshore;2050;4282;4812
+SE01;All;Wind Onshore;2030;2930;4200
+SE01;All;Wind Onshore;2035;3300;5450
+SE01;All;Wind Onshore;2040;3670;6700
+SE01;All;Wind Onshore;2045;3670;8650
+SE01;All;Wind Onshore;2050;3670;10600
+SE02;All;Wind Onshore;2030;7000;9900
+SE02;All;Wind Onshore;2035;7250;12850
+SE02;All;Wind Onshore;2040;7500;15800
+SE02;All;Wind Onshore;2045;7850;18300
+SE02;All;Wind Onshore;2050;8200;20800
+SE03;All;Wind Onshore;2030;3868;4900
+SE03;All;Wind Onshore;2035;4094;6700
+SE03;All;Wind Onshore;2040;4320;8500
+SE03;All;Wind Onshore;2045;4320;10000
+SE03;All;Wind Onshore;2050;4320;11500
+SE04;All;Wind Onshore;2030;2000;2600
+SE04;All;Wind Onshore;2035;2185;3250
+SE04;All;Wind Onshore;2040;2370;3900
+SE04;All;Wind Onshore;2045;2370;5050
+SE04;All;Wind Onshore;2050;2370;6200
+SI00;All;Wind Onshore;2030;60;151
+SI00;All;Wind Onshore;2035;90;245
+SI00;All;Wind Onshore;2040;120;339
+SI00;All;Wind Onshore;2045;92;379
+SI00;All;Wind Onshore;2050;64;418
+SK00;All;Wind Onshore;2030;715;715
+SK00;All;Wind Onshore;2035;785;1035
+SK00;All;Wind Onshore;2040;855;1355
+SK00;All;Wind Onshore;2045;928;1678
+SK00;All;Wind Onshore;2050;1000;2000
+UK00;All;Wind Onshore;2030;22271;39038
+UK00;All;Wind Onshore;2035;22271;40539
+UK00;All;Wind Onshore;2040;22271;42040
+UK00;All;Wind Onshore;2045;22271;46072
+UK00;All;Wind Onshore;2050;22271;50105
+UKNI;All;Wind Onshore;2030;2466;2466
+UKNI;All;Wind Onshore;2035;2508;2940
+UKNI;All;Wind Onshore;2040;2550;3413
+UKNI;All;Wind Onshore;2045;2550;3613
+UKNI;All;Wind Onshore;2050;2550;3813
+AL00;All;Solar PV Rooftop;2030;0;0
+AL00;All;Solar PV Rooftop;2035;0;0
+AL00;All;Solar PV Rooftop;2040;0;0
+AL00;All;Solar PV Rooftop;2045;0;0
+AL00;All;Solar PV Rooftop;2050;0;0
+AT00;All;Solar PV Rooftop;2030;6616;16539
+AT00;All;Solar PV Rooftop;2035;6407;21699
+AT00;All;Solar PV Rooftop;2040;6198;26859
+AT00;All;Solar PV Rooftop;2045;6250;40215
+AT00;All;Solar PV Rooftop;2050;6302;53570
+BA00;All;Solar PV Rooftop;2030;0;0
+BA00;All;Solar PV Rooftop;2035;0;0
+BA00;All;Solar PV Rooftop;2040;0;0
+BA00;All;Solar PV Rooftop;2045;0;0
+BA00;All;Solar PV Rooftop;2050;0;0
+BE00;All;Solar PV Rooftop;2030;11000;15000
+BE00;All;Solar PV Rooftop;2035;12700;23300
+BE00;All;Solar PV Rooftop;2040;20000;35000
+BE00;All;Solar PV Rooftop;2045;24500;45000
+BE00;All;Solar PV Rooftop;2050;29000;55000
+BG00;All;Solar PV Rooftop;2030;449;1242
+BG00;All;Solar PV Rooftop;2035;622;1682
+BG00;All;Solar PV Rooftop;2040;794;2122
+BG00;All;Solar PV Rooftop;2045;1070;2593
+BG00;All;Solar PV Rooftop;2050;1345;3064
+CH00;All;Solar PV Rooftop;2030;7650;12210
+CH00;All;Solar PV Rooftop;2035;8875;21150
+CH00;All;Solar PV Rooftop;2040;10100;30090
+CH00;All;Solar PV Rooftop;2045;11706;37329
+CH00;All;Solar PV Rooftop;2050;13312;44567
+CY00;All;Solar PV Rooftop;2030;387;515
+CY00;All;Solar PV Rooftop;2035;402;555
+CY00;All;Solar PV Rooftop;2040;417;595
+CY00;All;Solar PV Rooftop;2045;392;632
+CY00;All;Solar PV Rooftop;2050;367;668
+CZ00;All;Solar PV Rooftop;2030;3571;5022
+CZ00;All;Solar PV Rooftop;2035;3695;5507
+CZ00;All;Solar PV Rooftop;2040;3819;5991
+CZ00;All;Solar PV Rooftop;2045;2714;4291
+CZ00;All;Solar PV Rooftop;2050;1610;2591
+DE00;All;Solar PV Rooftop;2030;117999;117999
+DE00;All;Solar PV Rooftop;2035;155874;164910
+DE00;All;Solar PV Rooftop;2040;193750;211821
+DE00;All;Solar PV Rooftop;2045;202029;239258
+DE00;All;Solar PV Rooftop;2050;210307;266696
+DEKF;All;Solar PV Rooftop;2030;0;0
+DEKF;All;Solar PV Rooftop;2035;0;0
+DEKF;All;Solar PV Rooftop;2040;0;0
+DEKF;All;Solar PV Rooftop;2045;0;0
+DEKF;All;Solar PV Rooftop;2050;0;0
+DKE1;All;Solar PV Rooftop;2030;150;1087
+DKE1;All;Solar PV Rooftop;2035;215;1230
+DKE1;All;Solar PV Rooftop;2040;280;1374
+DKE1;All;Solar PV Rooftop;2045;330;1620
+DKE1;All;Solar PV Rooftop;2050;380;1866
+DKKF;All;Solar PV Rooftop;2030;0;0
+DKKF;All;Solar PV Rooftop;2035;0;0
+DKKF;All;Solar PV Rooftop;2040;0;0
+DKKF;All;Solar PV Rooftop;2045;0;0
+DKKF;All;Solar PV Rooftop;2050;0;0
+DKW1;All;Solar PV Rooftop;2030;220;3594
+DKW1;All;Solar PV Rooftop;2035;317;4068
+DKW1;All;Solar PV Rooftop;2040;413;4541
+DKW1;All;Solar PV Rooftop;2045;487;5355
+DKW1;All;Solar PV Rooftop;2050;561;6169
+EE00;All;Solar PV Rooftop;2030;0;0
+EE00;All;Solar PV Rooftop;2035;528;1152
+EE00;All;Solar PV Rooftop;2040;744;2046
+EE00;All;Solar PV Rooftop;2045;798;2190
+EE00;All;Solar PV Rooftop;2050;861;2360
+ES00;All;Solar PV Rooftop;2030;9270;20736
+ES00;All;Solar PV Rooftop;2035;12337;27636
+ES00;All;Solar PV Rooftop;2040;15403;34535
+ES00;All;Solar PV Rooftop;2045;22027;42667
+ES00;All;Solar PV Rooftop;2050;28651;50798
+FI00;All;Solar PV Rooftop;2030;1033;6889
+FI00;All;Solar PV Rooftop;2035;2198;14254
+FI00;All;Solar PV Rooftop;2040;3363;21619
+FI00;All;Solar PV Rooftop;2045;3974;31187
+FI00;All;Solar PV Rooftop;2050;4585;40756
+FR00;All;Solar PV Rooftop;2030;0;0
+FR00;All;Solar PV Rooftop;2035;14350;41205
+FR00;All;Solar PV Rooftop;2040;23030;70070
+FR00;All;Solar PV Rooftop;2045;29845;92355
+FR00;All;Solar PV Rooftop;2050;35200;110000
+GR00;All;Solar PV Rooftop;2030;0;0
+GR00;All;Solar PV Rooftop;2035;4500;9450
+GR00;All;Solar PV Rooftop;2040;6840;15390
+GR00;All;Solar PV Rooftop;2045;7020;18460
+GR00;All;Solar PV Rooftop;2050;6900;20240
+GR03;All;Solar PV Rooftop;2030;0;0
+GR03;All;Solar PV Rooftop;2035;0;0
+GR03;All;Solar PV Rooftop;2040;0;0
+GR03;All;Solar PV Rooftop;2045;0;0
+GR03;All;Solar PV Rooftop;2050;0;0
+HR00;All;Solar PV Rooftop;2030;447;1031
+HR00;All;Solar PV Rooftop;2035;671;1136
+HR00;All;Solar PV Rooftop;2040;895;1240
+HR00;All;Solar PV Rooftop;2045;945;1530
+HR00;All;Solar PV Rooftop;2050;969;1753
+HU00;All;Solar PV Rooftop;2030;3006;4490
+HU00;All;Solar PV Rooftop;2035;3686;5177
+HU00;All;Solar PV Rooftop;2040;4367;5865
+HU00;All;Solar PV Rooftop;2045;5031;6815
+HU00;All;Solar PV Rooftop;2050;5695;7765
+IE00;All;Solar PV Rooftop;2030;2487;2487
+IE00;All;Solar PV Rooftop;2035;2481;3284
+IE00;All;Solar PV Rooftop;2040;2476;4080
+IE00;All;Solar PV Rooftop;2045;2476;5341
+IE00;All;Solar PV Rooftop;2050;2476;6602
+ITCA;All;Solar PV Rooftop;2030;440;608
+ITCA;All;Solar PV Rooftop;2035;464;1397
+ITCA;All;Solar PV Rooftop;2040;489;2187
+ITCA;All;Solar PV Rooftop;2045;1238;2631
+ITCA;All;Solar PV Rooftop;2050;1988;3074
+ITCN;All;Solar PV Rooftop;2030;1700;3330
+ITCN;All;Solar PV Rooftop;2035;1794;4313
+ITCN;All;Solar PV Rooftop;2040;1888;5296
+ITCN;All;Solar PV Rooftop;2045;2386;6148
+ITCN;All;Solar PV Rooftop;2050;2884;7000
+ITCS;All;Solar PV Rooftop;2030;5354;6544
+ITCS;All;Solar PV Rooftop;2035;5652;8639
+ITCS;All;Solar PV Rooftop;2040;5949;10733
+ITCS;All;Solar PV Rooftop;2045;7853;13988
+ITCS;All;Solar PV Rooftop;2050;9758;17244
+ITN1;All;Solar PV Rooftop;2030;11888;23959
+ITN1;All;Solar PV Rooftop;2035;12549;31033
+ITN1;All;Solar PV Rooftop;2040;13210;38107
+ITN1;All;Solar PV Rooftop;2045;16354;44239
+ITN1;All;Solar PV Rooftop;2050;19498;50371
+ITS1;All;Solar PV Rooftop;2030;4408;5388
+ITS1;All;Solar PV Rooftop;2035;4653;5929
+ITS1;All;Solar PV Rooftop;2040;4898;6470
+ITS1;All;Solar PV Rooftop;2045;5390;9898
+ITS1;All;Solar PV Rooftop;2050;5881;13326
+ITSA;All;Solar PV Rooftop;2030;2211;2702
+ITSA;All;Solar PV Rooftop;2035;2334;3596
+ITSA;All;Solar PV Rooftop;2040;2457;4490
+ITSA;All;Solar PV Rooftop;2045;3270;6754
+ITSA;All;Solar PV Rooftop;2050;4082;9018
+ITSI;All;Solar PV Rooftop;2030;2865;3502
+ITSI;All;Solar PV Rooftop;2035;3025;4536
+ITSI;All;Solar PV Rooftop;2040;3184;5570
+ITSI;All;Solar PV Rooftop;2045;3869;7816
+ITSI;All;Solar PV Rooftop;2050;4555;10061
+LT00;All;Solar PV Rooftop;2030;0;0
+LT00;All;Solar PV Rooftop;2035;1496;1537
+LT00;All;Solar PV Rooftop;2040;2447;2576
+LT00;All;Solar PV Rooftop;2045;2468;2530
+LT00;All;Solar PV Rooftop;2050;2419;2419
+LUB1;All;Solar PV Rooftop;2030;0;0
+LUB1;All;Solar PV Rooftop;2035;0;0
+LUB1;All;Solar PV Rooftop;2040;0;0
+LUB1;All;Solar PV Rooftop;2045;0;0
+LUB1;All;Solar PV Rooftop;2050;0;0
+LUF1;All;Solar PV Rooftop;2030;0;0
+LUF1;All;Solar PV Rooftop;2035;0;0
+LUF1;All;Solar PV Rooftop;2040;0;0
+LUF1;All;Solar PV Rooftop;2045;0;0
+LUF1;All;Solar PV Rooftop;2050;0;0
+LUG1;All;Solar PV Rooftop;2030;378;687
+LUG1;All;Solar PV Rooftop;2035;465;973
+LUG1;All;Solar PV Rooftop;2040;553;1260
+LUG1;All;Solar PV Rooftop;2045;652;1420
+LUG1;All;Solar PV Rooftop;2050;750;1580
+LUV1;All;Solar PV Rooftop;2030;0;0
+LUV1;All;Solar PV Rooftop;2035;0;0
+LUV1;All;Solar PV Rooftop;2040;0;0
+LUV1;All;Solar PV Rooftop;2045;0;0
+LUV1;All;Solar PV Rooftop;2050;0;0
+LV00;All;Solar PV Rooftop;2030;10;34
+LV00;All;Solar PV Rooftop;2035;30;88
+LV00;All;Solar PV Rooftop;2040;50;143
+LV00;All;Solar PV Rooftop;2045;50;206
+LV00;All;Solar PV Rooftop;2050;50;269
+ME00;All;Solar PV Rooftop;2030;0;0
+ME00;All;Solar PV Rooftop;2035;0;0
+ME00;All;Solar PV Rooftop;2040;0;0
+ME00;All;Solar PV Rooftop;2045;0;0
+ME00;All;Solar PV Rooftop;2050;0;0
+MK00;All;Solar PV Rooftop;2030;87;738
+MK00;All;Solar PV Rooftop;2035;159;934
+MK00;All;Solar PV Rooftop;2040;230;1129
+MK00;All;Solar PV Rooftop;2045;230;1129
+MK00;All;Solar PV Rooftop;2050;230;1129
+MT00;All;Solar PV Rooftop;2030;223;236
+MT00;All;Solar PV Rooftop;2035;177;242
+MT00;All;Solar PV Rooftop;2040;131;248
+MT00;All;Solar PV Rooftop;2045;152;288
+MT00;All;Solar PV Rooftop;2050;173;328
+NL00;All;Solar PV Rooftop;2030;28100;50960
+NL00;All;Solar PV Rooftop;2035;37161;68196
+NL00;All;Solar PV Rooftop;2040;46222;85433
+NL00;All;Solar PV Rooftop;2045;57125;105006
+NL00;All;Solar PV Rooftop;2050;68029;124580
+NOM1;All;Solar PV Rooftop;2030;780;780
+NOM1;All;Solar PV Rooftop;2035;890;1640
+NOM1;All;Solar PV Rooftop;2040;1000;2500
+NOM1;All;Solar PV Rooftop;2045;1150;3125
+NOM1;All;Solar PV Rooftop;2050;1300;3750
+NON1;All;Solar PV Rooftop;2030;0;0
+NON1;All;Solar PV Rooftop;2035;0;0
+NON1;All;Solar PV Rooftop;2040;0;0
+NON1;All;Solar PV Rooftop;2045;0;0
+NON1;All;Solar PV Rooftop;2050;0;0
+NOS0;All;Solar PV Rooftop;2030;3000;4370
+NOS0;All;Solar PV Rooftop;2035;5250;11235
+NOS0;All;Solar PV Rooftop;2040;7500;18100
+NOS0;All;Solar PV Rooftop;2045;9070;19200
+NOS0;All;Solar PV Rooftop;2050;10640;20300
+PL00;All;Solar PV Rooftop;2030;0;0
+PL00;All;Solar PV Rooftop;2035;4318;14210
+PL00;All;Solar PV Rooftop;2040;6359;26000
+PL00;All;Solar PV Rooftop;2045;6641;29785
+PL00;All;Solar PV Rooftop;2050;6800;32640
+PT00;All;Solar PV Rooftop;2030;499;641
+PT00;All;Solar PV Rooftop;2035;682;1257
+PT00;All;Solar PV Rooftop;2040;865;1874
+PT00;All;Solar PV Rooftop;2045;865;1874
+PT00;All;Solar PV Rooftop;2050;865;1874
+RO00;All;Solar PV Rooftop;2030;627;1204
+RO00;All;Solar PV Rooftop;2035;972;2029
+RO00;All;Solar PV Rooftop;2040;1316;2855
+RO00;All;Solar PV Rooftop;2045;1546;4401
+RO00;All;Solar PV Rooftop;2050;1776;5948
+RS00;All;Solar PV Rooftop;2030;193;254
+RS00;All;Solar PV Rooftop;2035;193;254
+RS00;All;Solar PV Rooftop;2040;193;254
+RS00;All;Solar PV Rooftop;2045;193;254
+RS00;All;Solar PV Rooftop;2050;193;254
+SE01;All;Solar PV Rooftop;2030;0;0
+SE01;All;Solar PV Rooftop;2035;0;0
+SE01;All;Solar PV Rooftop;2040;0;0
+SE01;All;Solar PV Rooftop;2045;0;0
+SE01;All;Solar PV Rooftop;2050;0;0
+SE02;All;Solar PV Rooftop;2030;103;2000
+SE02;All;Solar PV Rooftop;2035;179;3000
+SE02;All;Solar PV Rooftop;2040;254;4000
+SE02;All;Solar PV Rooftop;2045;254;5000
+SE02;All;Solar PV Rooftop;2050;254;6000
+SE03;All;Solar PV Rooftop;2030;1523;9800
+SE03;All;Solar PV Rooftop;2035;2342;16525
+SE03;All;Solar PV Rooftop;2040;3160;23250
+SE03;All;Solar PV Rooftop;2045;3160;25950
+SE03;All;Solar PV Rooftop;2050;3160;28650
+SE04;All;Solar PV Rooftop;2030;650;4200
+SE04;All;Solar PV Rooftop;2035;1000;6900
+SE04;All;Solar PV Rooftop;2040;1350;9600
+SE04;All;Solar PV Rooftop;2045;1350;10725
+SE04;All;Solar PV Rooftop;2050;1350;11850
+SI00;All;Solar PV Rooftop;2030;1845;3455
+SI00;All;Solar PV Rooftop;2035;2345;5705
+SI00;All;Solar PV Rooftop;2040;2845;7955
+SI00;All;Solar PV Rooftop;2045;3345;9755
+SI00;All;Solar PV Rooftop;2050;3845;11555
+SK00;All;Solar PV Rooftop;2030;0;0
+SK00;All;Solar PV Rooftop;2035;490;665
+SK00;All;Solar PV Rooftop;2040;720;1170
+SK00;All;Solar PV Rooftop;2045;765;1403
+SK00;All;Solar PV Rooftop;2050;800;1600
+UK00;All;Solar PV Rooftop;2030;10207;30272
+UK00;All;Solar PV Rooftop;2035;11224;32206
+UK00;All;Solar PV Rooftop;2040;12241;34141
+UK00;All;Solar PV Rooftop;2045;12755;37387
+UK00;All;Solar PV Rooftop;2050;13268;40632
+UKNI;All;Solar PV Rooftop;2030;177;177
+UKNI;All;Solar PV Rooftop;2035;212;500
+UKNI;All;Solar PV Rooftop;2040;248;822
+UKNI;All;Solar PV Rooftop;2045;269;1178
+UKNI;All;Solar PV Rooftop;2050;290;1534
+AL00;All;Solar PV Utility;2030;600;600
+AL00;All;Solar PV Utility;2035;900;900
+AL00;All;Solar PV Utility;2040;1200;1200
+AL00;All;Solar PV Utility;2045;1200;1200
+AL00;All;Solar PV Utility;2050;1200;1200
+AT00;All;Solar PV Utility;2030;5384;13461
+AT00;All;Solar PV Utility;2035;5593;19301
+AT00;All;Solar PV Utility;2040;5802;25141
+AT00;All;Solar PV Utility;2045;5750;36785
+AT00;All;Solar PV Utility;2050;5698;48430
+BA00;All;Solar PV Utility;2030;455;455
+BA00;All;Solar PV Utility;2035;882;882
+BA00;All;Solar PV Utility;2040;1310;1310
+BA00;All;Solar PV Utility;2045;1560;1560
+BA00;All;Solar PV Utility;2050;1810;1810
+BE00;All;Solar PV Utility;2030;0;0
+BE00;All;Solar PV Utility;2035;0;0
+BE00;All;Solar PV Utility;2040;0;0
+BE00;All;Solar PV Utility;2045;0;0
+BE00;All;Solar PV Utility;2050;0;0
+BG00;All;Solar PV Utility;2030;2051;5673
+BG00;All;Solar PV Utility;2035;2128;5783
+BG00;All;Solar PV Utility;2040;2206;5893
+BG00;All;Solar PV Utility;2045;2430;5970
+BG00;All;Solar PV Utility;2050;2655;6046
+CH00;All;Solar PV Utility;2030;0;0
+CH00;All;Solar PV Utility;2035;0;0
+CH00;All;Solar PV Utility;2040;0;0
+CH00;All;Solar PV Utility;2045;0;0
+CH00;All;Solar PV Utility;2050;0;0
+CY00;All;Solar PV Utility;2030;417;555
+CY00;All;Solar PV Utility;2035;770;1080
+CY00;All;Solar PV Utility;2040;1123;1605
+CY00;All;Solar PV Utility;2045;983;1568
+CY00;All;Solar PV Utility;2050;843;1532
+CZ00;All;Solar PV Utility;2030;7249;10196
+CZ00;All;Solar PV Utility;2035;7502;11180
+CZ00;All;Solar PV Utility;2040;7754;12164
+CZ00;All;Solar PV Utility;2045;9333;14864
+CZ00;All;Solar PV Utility;2050;10911;17564
+DE00;All;Solar PV Utility;2030;97001;97001
+DE00;All;Solar PV Utility;2035;134563;142590
+DE00;All;Solar PV Utility;2040;172125;188179
+DE00;All;Solar PV Utility;2045;180909;214367
+DE00;All;Solar PV Utility;2050;189693;240554
+DEKF;All;Solar PV Utility;2030;0;0
+DEKF;All;Solar PV Utility;2035;0;0
+DEKF;All;Solar PV Utility;2040;0;0
+DEKF;All;Solar PV Utility;2045;0;0
+DEKF;All;Solar PV Utility;2050;0;0
+DKE1;All;Solar PV Utility;2030;1845;13375
+DKE1;All;Solar PV Utility;2035;2254;13231
+DKE1;All;Solar PV Utility;2040;2663;13088
+DKE1;All;Solar PV Utility;2045;2613;12842
+DKE1;All;Solar PV Utility;2050;2563;12596
+DKKF;All;Solar PV Utility;2030;0;0
+DKKF;All;Solar PV Utility;2035;0;0
+DKKF;All;Solar PV Utility;2040;0;0
+DKKF;All;Solar PV Utility;2045;0;0
+DKKF;All;Solar PV Utility;2050;0;0
+DKW1;All;Solar PV Utility;2030;2709;44215
+DKW1;All;Solar PV Utility;2035;3323;43742
+DKW1;All;Solar PV Utility;2040;3938;43269
+DKW1;All;Solar PV Utility;2045;3864;42455
+DKW1;All;Solar PV Utility;2050;3790;41641
+EE00;All;Solar PV Utility;2030;0;0
+EE00;All;Solar PV Utility;2035;572;1248
+EE00;All;Solar PV Utility;2040;456;1254
+EE00;All;Solar PV Utility;2045;532;1460
+EE00;All;Solar PV Utility;2050;599;1640
+ES00;All;Solar PV Utility;2030;33668;75314
+ES00;All;Solar PV Utility;2035;45226;101313
+ES00;All;Solar PV Utility;2040;56784;127313
+ES00;All;Solar PV Utility;2045;64785;128181
+ES00;All;Solar PV Utility;2050;72787;129050
+FI00;All;Solar PV Utility;2030;1967;13111
+FI00;All;Solar PV Utility;2035;2802;18246
+FI00;All;Solar PV Utility;2040;3637;23381
+FI00;All;Solar PV Utility;2045;4026;31313
+FI00;All;Solar PV Utility;2050;4415;39244
+FR00;All;Solar PV Utility;2030;0;0
+FR00;All;Solar PV Utility;2035;20650;59295
+FR00;All;Solar PV Utility;2040;23970;72930
+FR00;All;Solar PV Utility;2045;33655;104145
+FR00;All;Solar PV Utility;2050;44800;140000
+GR00;All;Solar PV Utility;2030;0;0
+GR00;All;Solar PV Utility;2035;5500;11550
+GR00;All;Solar PV Utility;2040;5160;11610
+GR00;All;Solar PV Utility;2045;6480;17040
+GR00;All;Solar PV Utility;2050;8100;23760
+GR03;All;Solar PV Utility;2030;0;0
+GR03;All;Solar PV Utility;2035;375;2500
+GR03;All;Solar PV Utility;2040;400;2500
+GR03;All;Solar PV Utility;2045;450;2500
+GR03;All;Solar PV Utility;2050;500;2500
+HR00;All;Solar PV Utility;2030;274;632
+HR00;All;Solar PV Utility;2035;411;696
+HR00;All;Solar PV Utility;2040;549;760
+HR00;All;Solar PV Utility;2045;657;1064
+HR00;All;Solar PV Utility;2050;792;1435
+HU00;All;Solar PV Utility;2030;6587;9839
+HU00;All;Solar PV Utility;2035;8092;11364
+HU00;All;Solar PV Utility;2040;9597;12889
+HU00;All;Solar PV Utility;2045;10531;14260
+HU00;All;Solar PV Utility;2050;11465;15631
+IE00;All;Solar PV Utility;2030;5500;5500
+IE00;All;Solar PV Utility;2035;5506;7291
+IE00;All;Solar PV Utility;2040;5511;9082
+IE00;All;Solar PV Utility;2045;5511;11889
+IE00;All;Solar PV Utility;2050;5511;14696
+ITCA;All;Solar PV Utility;2030;1004;1390
+ITCA;All;Solar PV Utility;2035;1060;3194
+ITCA;All;Solar PV Utility;2040;1116;4998
+ITCA;All;Solar PV Utility;2045;2830;6012
+ITCA;All;Solar PV Utility;2050;4544;7026
+ITCN;All;Solar PV Utility;2030;2549;4994
+ITCN;All;Solar PV Utility;2035;2691;6469
+ITCN;All;Solar PV Utility;2040;2833;7943
+ITCN;All;Solar PV Utility;2045;3579;9222
+ITCN;All;Solar PV Utility;2050;4325;10500
+ITCS;All;Solar PV Utility;2030;8031;9816
+ITCS;All;Solar PV Utility;2035;8477;12958
+ITCS;All;Solar PV Utility;2040;8924;16100
+ITCS;All;Solar PV Utility;2045;11780;20983
+ITCS;All;Solar PV Utility;2050;14636;25865
+ITN1;All;Solar PV Utility;2030;7926;15973
+ITN1;All;Solar PV Utility;2035;8366;20689
+ITN1;All;Solar PV Utility;2040;8806;25404
+ITN1;All;Solar PV Utility;2045;10902;29493
+ITN1;All;Solar PV Utility;2050;12998;33581
+ITS1;All;Solar PV Utility;2030;10074;12313
+ITS1;All;Solar PV Utility;2035;10634;13550
+ITS1;All;Solar PV Utility;2040;11193;14786
+ITS1;All;Solar PV Utility;2045;12317;22620
+ITS1;All;Solar PV Utility;2050;13442;30454
+ITSA;All;Solar PV Utility;2030;3317;4054
+ITSA;All;Solar PV Utility;2035;3501;5395
+ITSA;All;Solar PV Utility;2040;3685;6736
+ITSA;All;Solar PV Utility;2045;4904;10131
+ITSA;All;Solar PV Utility;2050;6124;13527
+ITSI;All;Solar PV Utility;2030;5322;6504
+ITSI;All;Solar PV Utility;2035;5617;8425
+ITSI;All;Solar PV Utility;2040;5913;10345
+ITSI;All;Solar PV Utility;2045;7186;14515
+ITSI;All;Solar PV Utility;2050;8458;18685
+LT00;All;Solar PV Utility;2030;0;0
+LT00;All;Solar PV Utility;2035;3664;3763
+LT00;All;Solar PV Utility;2040;2873;3024
+LT00;All;Solar PV Utility;2045;3142;3220
+LT00;All;Solar PV Utility;2050;3481;3481
+LUB1;All;Solar PV Utility;2030;0;0
+LUB1;All;Solar PV Utility;2035;0;0
+LUB1;All;Solar PV Utility;2040;0;0
+LUB1;All;Solar PV Utility;2045;0;0
+LUB1;All;Solar PV Utility;2050;0;0
+LUF1;All;Solar PV Utility;2030;0;0
+LUF1;All;Solar PV Utility;2035;0;0
+LUF1;All;Solar PV Utility;2040;0;0
+LUF1;All;Solar PV Utility;2045;0;0
+LUF1;All;Solar PV Utility;2050;0;0
+LUG1;All;Solar PV Utility;2030;163;296
+LUG1;All;Solar PV Utility;2035;200;418
+LUG1;All;Solar PV Utility;2040;237;540
+LUG1;All;Solar PV Utility;2045;260;568
+LUG1;All;Solar PV Utility;2050;282;595
+LUV1;All;Solar PV Utility;2030;0;0
+LUV1;All;Solar PV Utility;2035;0;0
+LUV1;All;Solar PV Utility;2040;0;0
+LUV1;All;Solar PV Utility;2045;0;0
+LUV1;All;Solar PV Utility;2050;0;0
+LV00;All;Solar PV Utility;2030;136;466
+LV00;All;Solar PV Utility;2035;236;712
+LV00;All;Solar PV Utility;2040;336;959
+LV00;All;Solar PV Utility;2045;336;1384
+LV00;All;Solar PV Utility;2050;336;1809
+ME00;All;Solar PV Utility;2030;32;1885
+ME00;All;Solar PV Utility;2035;32;1885
+ME00;All;Solar PV Utility;2040;32;1885
+ME00;All;Solar PV Utility;2045;32;1885
+ME00;All;Solar PV Utility;2050;32;1885
+MK00;All;Solar PV Utility;2030;188;1588
+MK00;All;Solar PV Utility;2035;382;2205
+MK00;All;Solar PV Utility;2040;576;2822
+MK00;All;Solar PV Utility;2045;576;2822
+MK00;All;Solar PV Utility;2050;576;2822
+MT00;All;Solar PV Utility;2030;43;46
+MT00;All;Solar PV Utility;2035;43;63
+MT00;All;Solar PV Utility;2040;42;80
+MT00;All;Solar PV Utility;2045;21;40
+MT00;All;Solar PV Utility;2050;0;0
+NL00;All;Solar PV Utility;2030;13865;25145
+NL00;All;Solar PV Utility;2035;17944;32925
+NL00;All;Solar PV Utility;2040;22023;40706
+NL00;All;Solar PV Utility;2045;26989;49612
+NL00;All;Solar PV Utility;2050;31955;58518
+NOM1;All;Solar PV Utility;2030;0;0
+NOM1;All;Solar PV Utility;2035;0;0
+NOM1;All;Solar PV Utility;2040;0;0
+NOM1;All;Solar PV Utility;2045;0;0
+NOM1;All;Solar PV Utility;2050;0;0
+NON1;All;Solar PV Utility;2030;0;0
+NON1;All;Solar PV Utility;2035;0;0
+NON1;All;Solar PV Utility;2040;0;0
+NON1;All;Solar PV Utility;2045;0;0
+NON1;All;Solar PV Utility;2050;0;0
+NOS0;All;Solar PV Utility;2030;0;0
+NOS0;All;Solar PV Utility;2035;0;0
+NOS0;All;Solar PV Utility;2040;0;0
+NOS0;All;Solar PV Utility;2045;0;0
+NOS0;All;Solar PV Utility;2050;0;0
+PL00;All;Solar PV Utility;2030;0;0
+PL00;All;Solar PV Utility;2035;10573;34790
+PL00;All;Solar PV Utility;2040;9538;39000
+PL00;All;Solar PV Utility;2045;11308;50715
+PL00;All;Solar PV Utility;2050;13200;63360
+PT00;All;Solar PV Utility;2030;11177;14359
+PT00;All;Solar PV Utility;2035;11852;20743
+PT00;All;Solar PV Utility;2040;12528;27126
+PT00;All;Solar PV Utility;2045;12528;27126
+PT00;All;Solar PV Utility;2050;12528;27126
+RO00;All;Solar PV Utility;2030;4427;8496
+RO00;All;Solar PV Utility;2035;5705;11821
+RO00;All;Solar PV Utility;2040;6984;15145
+RO00;All;Solar PV Utility;2045;7754;21849
+RO00;All;Solar PV Utility;2050;8524;28552
+RS00;All;Solar PV Utility;2030;412;541
+RS00;All;Solar PV Utility;2035;412;541
+RS00;All;Solar PV Utility;2040;412;541
+RS00;All;Solar PV Utility;2045;412;541
+RS00;All;Solar PV Utility;2050;412;541
+SE01;All;Solar PV Utility;2030;0;1000
+SE01;All;Solar PV Utility;2035;0;1500
+SE01;All;Solar PV Utility;2040;0;2000
+SE01;All;Solar PV Utility;2045;0;2500
+SE01;All;Solar PV Utility;2050;0;3000
+SE02;All;Solar PV Utility;2030;0;0
+SE02;All;Solar PV Utility;2035;0;0
+SE02;All;Solar PV Utility;2040;0;0
+SE02;All;Solar PV Utility;2045;0;0
+SE02;All;Solar PV Utility;2050;0;0
+SE03;All;Solar PV Utility;2030;0;0
+SE03;All;Solar PV Utility;2035;0;0
+SE03;All;Solar PV Utility;2040;0;0
+SE03;All;Solar PV Utility;2045;0;0
+SE03;All;Solar PV Utility;2050;0;0
+SE04;All;Solar PV Utility;2030;0;0
+SE04;All;Solar PV Utility;2035;0;0
+SE04;All;Solar PV Utility;2040;0;0
+SE04;All;Solar PV Utility;2045;0;0
+SE04;All;Solar PV Utility;2050;0;0
+SI00;All;Solar PV Utility;2030;0;0
+SI00;All;Solar PV Utility;2035;0;0
+SI00;All;Solar PV Utility;2040;0;0
+SI00;All;Solar PV Utility;2045;0;0
+SI00;All;Solar PV Utility;2050;0;0
+SK00;All;Solar PV Utility;2030;0;0
+SK00;All;Solar PV Utility;2035;1260;1710
+SK00;All;Solar PV Utility;2040;1280;2080
+SK00;All;Solar PV Utility;2045;1485;2723
+SK00;All;Solar PV Utility;2050;1700;3400
+UK00;All;Solar PV Utility;2030;14140;41936
+UK00;All;Solar PV Utility;2035;13894;40001
+UK00;All;Solar PV Utility;2040;13649;38066
+UK00;All;Solar PV Utility;2045;13135;38361
+UK00;All;Solar PV Utility;2050;12622;38655
+UKNI;All;Solar PV Utility;2030;440;440
+UKNI;All;Solar PV Utility;2035;405;833
+UKNI;All;Solar PV Utility;2040;369;1225
+UKNI;All;Solar PV Utility;2045;348;1475
+UKNI;All;Solar PV Utility;2050;327;1725
+AL00;All;Batteries Prosumer;2030;0;0
+AL00;All;Batteries Prosumer;2035;0;0
+AL00;All;Batteries Prosumer;2040;0;0
+AL00;All;Batteries Prosumer;2045;0;0
+AL00;All;Batteries Prosumer;2050;0;0
+AT00;All;Batteries Prosumer;2030;56;140
+AT00;All;Batteries Prosumer;2035;120;230
+AT00;All;Batteries Prosumer;2040;185;321
+AT00;All;Batteries Prosumer;2045;261;651
+AT00;All;Batteries Prosumer;2050;337;981
+BA00;All;Batteries Prosumer;2030;0;0
+BA00;All;Batteries Prosumer;2035;0;0
+BA00;All;Batteries Prosumer;2040;0;0
+BA00;All;Batteries Prosumer;2045;0;0
+BA00;All;Batteries Prosumer;2050;0;0
+BE00;All;Batteries Prosumer;2030;520;965
+BE00;All;Batteries Prosumer;2035;1043;1561
+BE00;All;Batteries Prosumer;2040;1566;2156
+BE00;All;Batteries Prosumer;2045;1566;3962
+BE00;All;Batteries Prosumer;2050;1566;5768
+BG00;All;Batteries Prosumer;2030;1077;2154
+BG00;All;Batteries Prosumer;2035;1333;2666
+BG00;All;Batteries Prosumer;2040;1589;3177
+BG00;All;Batteries Prosumer;2045;1803;3607
+BG00;All;Batteries Prosumer;2050;2018;4036
+CH00;All;Batteries Prosumer;2030;611;763
+CH00;All;Batteries Prosumer;2035;1694;2117
+CH00;All;Batteries Prosumer;2040;2777;3472
+CH00;All;Batteries Prosumer;2045;3914;4736
+CH00;All;Batteries Prosumer;2050;5050;5999
+CY00;All;Batteries Prosumer;2030;0;280
+CY00;All;Batteries Prosumer;2035;128;315
+CY00;All;Batteries Prosumer;2040;256;350
+CY00;All;Batteries Prosumer;2045;256;350
+CY00;All;Batteries Prosumer;2050;256;350
+CZ00;All;Batteries Prosumer;2030;278;278
+CZ00;All;Batteries Prosumer;2035;702;814
+CZ00;All;Batteries Prosumer;2040;1127;1350
+CZ00;All;Batteries Prosumer;2045;830;1350
+CZ00;All;Batteries Prosumer;2050;533;1350
+DE00;All;Batteries Prosumer;2030;50538;50538
+DE00;All;Batteries Prosumer;2035;104032;111378
+DE00;All;Batteries Prosumer;2040;157525;172217
+DE00;All;Batteries Prosumer;2045;195399;222390
+DE00;All;Batteries Prosumer;2050;233272;272564
+DEKF;All;Batteries Prosumer;2030;0;0
+DEKF;All;Batteries Prosumer;2035;0;0
+DEKF;All;Batteries Prosumer;2040;0;0
+DEKF;All;Batteries Prosumer;2045;0;0
+DEKF;All;Batteries Prosumer;2050;0;0
+DKE1;All;Batteries Prosumer;2030;0;215
+DKE1;All;Batteries Prosumer;2035;0;272
+DKE1;All;Batteries Prosumer;2040;0;330
+DKE1;All;Batteries Prosumer;2045;0;441
+DKE1;All;Batteries Prosumer;2050;0;552
+DKKF;All;Batteries Prosumer;2030;0;0
+DKKF;All;Batteries Prosumer;2035;0;0
+DKKF;All;Batteries Prosumer;2040;0;0
+DKKF;All;Batteries Prosumer;2045;0;0
+DKKF;All;Batteries Prosumer;2050;0;0
+DKW1;All;Batteries Prosumer;2030;150;559
+DKW1;All;Batteries Prosumer;2035;170;559
+DKW1;All;Batteries Prosumer;2040;190;559
+DKW1;All;Batteries Prosumer;2045;224;559
+DKW1;All;Batteries Prosumer;2050;258;559
+EE00;All;Batteries Prosumer;2030;0;0
+EE00;All;Batteries Prosumer;2035;0;261
+EE00;All;Batteries Prosumer;2040;0;491
+EE00;All;Batteries Prosumer;2045;0;593
+EE00;All;Batteries Prosumer;2050;0;698
+ES00;All;Batteries Prosumer;2030;1400;2000
+ES00;All;Batteries Prosumer;2035;1825;2500
+ES00;All;Batteries Prosumer;2040;2250;3000
+ES00;All;Batteries Prosumer;2045;2625;3500
+ES00;All;Batteries Prosumer;2050;3000;4000
+FI00;All;Batteries Prosumer;2030;689;1288
+FI00;All;Batteries Prosumer;2035;1786;3676
+FI00;All;Batteries Prosumer;2040;2883;6064
+FI00;All;Batteries Prosumer;2045;4498;10653
+FI00;All;Batteries Prosumer;2050;6113;15243
+FR00;All;Batteries Prosumer;2030;0;0
+FR00;All;Batteries Prosumer;2035;4419;9328
+FR00;All;Batteries Prosumer;2040;10101;21665
+FR00;All;Batteries Prosumer;2045;15109;35194
+FR00;All;Batteries Prosumer;2050;19219;46441
+GR00;All;Batteries Prosumer;2030;0;0
+GR00;All;Batteries Prosumer;2035;9585;10504
+GR00;All;Batteries Prosumer;2040;15219;16437
+GR00;All;Batteries Prosumer;2045;22854;27054
+GR00;All;Batteries Prosumer;2050;28152;34600
+GR03;All;Batteries Prosumer;2030;0;0
+GR03;All;Batteries Prosumer;2035;0;0
+GR03;All;Batteries Prosumer;2040;0;0
+GR03;All;Batteries Prosumer;2045;0;0
+GR03;All;Batteries Prosumer;2050;0;0
+HR00;All;Batteries Prosumer;2030;189;437
+HR00;All;Batteries Prosumer;2035;206;437
+HR00;All;Batteries Prosumer;2040;223;437
+HR00;All;Batteries Prosumer;2045;210;471
+HR00;All;Batteries Prosumer;2050;197;517
+HU00;All;Batteries Prosumer;2030;224;324
+HU00;All;Batteries Prosumer;2035;364;483
+HU00;All;Batteries Prosumer;2040;504;642
+HU00;All;Batteries Prosumer;2045;644;819
+HU00;All;Batteries Prosumer;2050;784;997
+IE00;All;Batteries Prosumer;2030;3826;3826
+IE00;All;Batteries Prosumer;2035;10618;10618
+IE00;All;Batteries Prosumer;2040;17411;17411
+IE00;All;Batteries Prosumer;2045;20432;20432
+IE00;All;Batteries Prosumer;2050;23453;23453
+ITA0;All;Batteries Prosumer;2030;0;0
+ITA0;All;Batteries Prosumer;2035;0;0
+ITA0;All;Batteries Prosumer;2040;0;0
+ITA0;All;Batteries Prosumer;2045;0;0
+ITA0;All;Batteries Prosumer;2050;0;0
+ITCA;All;Batteries Prosumer;2030;320;398
+ITCA;All;Batteries Prosumer;2035;480;551
+ITCA;All;Batteries Prosumer;2040;640;704
+ITCA;All;Batteries Prosumer;2045;640;847
+ITCA;All;Batteries Prosumer;2050;640;990
+ITCN;All;Batteries Prosumer;2030;1440;2539
+ITCN;All;Batteries Prosumer;2035;2160;3914
+ITCN;All;Batteries Prosumer;2040;2880;5289
+ITCN;All;Batteries Prosumer;2045;2880;6140
+ITCN;All;Batteries Prosumer;2050;2880;6991
+ITCS;All;Batteries Prosumer;2030;3360;3696
+ITCS;All;Batteries Prosumer;2035;5040;5544
+ITCS;All;Batteries Prosumer;2040;6720;7392
+ITCS;All;Batteries Prosumer;2045;6720;9634
+ITCS;All;Batteries Prosumer;2050;6720;11876
+ITN1;All;Batteries Prosumer;2030;8960;16252
+ITN1;All;Batteries Prosumer;2035;13440;25638
+ITN1;All;Batteries Prosumer;2040;17920;35023
+ITN1;All;Batteries Prosumer;2045;17920;40660
+ITN1;All;Batteries Prosumer;2050;17920;46296
+ITS1;All;Batteries Prosumer;2030;800;880
+ITS1;All;Batteries Prosumer;2035;1200;1320
+ITS1;All;Batteries Prosumer;2040;1600;1760
+ITS1;All;Batteries Prosumer;2045;1600;2693
+ITS1;All;Batteries Prosumer;2050;1600;3625
+ITSA;All;Batteries Prosumer;2030;320;351
+ITSA;All;Batteries Prosumer;2035;480;527
+ITSA;All;Batteries Prosumer;2040;640;703
+ITSA;All;Batteries Prosumer;2045;640;1057
+ITSA;All;Batteries Prosumer;2050;640;1412
+ITSI;All;Batteries Prosumer;2030;800;876
+ITSI;All;Batteries Prosumer;2035;1200;1413
+ITSI;All;Batteries Prosumer;2040;1600;1951
+ITSI;All;Batteries Prosumer;2045;1600;2737
+ITSI;All;Batteries Prosumer;2050;1600;3523
+LT00;All;Batteries Prosumer;2030;0;0
+LT00;All;Batteries Prosumer;2035;928;928
+LT00;All;Batteries Prosumer;2040;1932;1932
+LT00;All;Batteries Prosumer;2045;2288;2288
+LT00;All;Batteries Prosumer;2050;2542;2542
+LUB1;All;Batteries Prosumer;2030;0;0
+LUB1;All;Batteries Prosumer;2035;0;0
+LUB1;All;Batteries Prosumer;2040;0;0
+LUB1;All;Batteries Prosumer;2045;0;0
+LUB1;All;Batteries Prosumer;2050;0;0
+LUF1;All;Batteries Prosumer;2030;0;0
+LUF1;All;Batteries Prosumer;2035;0;0
+LUF1;All;Batteries Prosumer;2040;0;0
+LUF1;All;Batteries Prosumer;2045;0;0
+LUF1;All;Batteries Prosumer;2050;0;0
+LUG1;All;Batteries Prosumer;2030;17;28
+LUG1;All;Batteries Prosumer;2035;26;51
+LUG1;All;Batteries Prosumer;2040;35;73
+LUG1;All;Batteries Prosumer;2045;36;75
+LUG1;All;Batteries Prosumer;2050;36;77
+LUV1;All;Batteries Prosumer;2030;0;0
+LUV1;All;Batteries Prosumer;2035;0;0
+LUV1;All;Batteries Prosumer;2040;0;0
+LUV1;All;Batteries Prosumer;2045;0;0
+LUV1;All;Batteries Prosumer;2050;0;0
+LV00;All;Batteries Prosumer;2030;11;38
+LV00;All;Batteries Prosumer;2035;16;48
+LV00;All;Batteries Prosumer;2040;21;59
+LV00;All;Batteries Prosumer;2045;10;69
+LV00;All;Batteries Prosumer;2050;0;80
+ME00;All;Batteries Prosumer;2030;0;0
+ME00;All;Batteries Prosumer;2035;0;0
+ME00;All;Batteries Prosumer;2040;0;0
+ME00;All;Batteries Prosumer;2045;0;0
+ME00;All;Batteries Prosumer;2050;0;0
+MK00;All;Batteries Prosumer;2030;0;480
+MK00;All;Batteries Prosumer;2035;0;659
+MK00;All;Batteries Prosumer;2040;0;838
+MK00;All;Batteries Prosumer;2045;0;873
+MK00;All;Batteries Prosumer;2050;0;908
+MT00;All;Batteries Prosumer;2030;0;154
+MT00;All;Batteries Prosumer;2035;0;169
+MT00;All;Batteries Prosumer;2040;0;184
+MT00;All;Batteries Prosumer;2045;0;224
+MT00;All;Batteries Prosumer;2050;0;264
+NL00;All;Batteries Prosumer;2030;17676;22678
+NL00;All;Batteries Prosumer;2035;41013;50967
+NL00;All;Batteries Prosumer;2040;64350;79257
+NL00;All;Batteries Prosumer;2045;87840;109680
+NL00;All;Batteries Prosumer;2050;111330;140103
+NOM1;All;Batteries Prosumer;2030;0;198
+NOM1;All;Batteries Prosumer;2035;0;399
+NOM1;All;Batteries Prosumer;2040;0;600
+NOM1;All;Batteries Prosumer;2045;0;855
+NOM1;All;Batteries Prosumer;2050;0;1109
+NON1;All;Batteries Prosumer;2030;0;0
+NON1;All;Batteries Prosumer;2035;0;0
+NON1;All;Batteries Prosumer;2040;0;0
+NON1;All;Batteries Prosumer;2045;0;0
+NON1;All;Batteries Prosumer;2050;0;0
+NOS0;All;Batteries Prosumer;2030;0;865
+NOS0;All;Batteries Prosumer;2035;0;2604
+NOS0;All;Batteries Prosumer;2040;0;4343
+NOS0;All;Batteries Prosumer;2045;0;5174
+NOS0;All;Batteries Prosumer;2050;0;6006
+PL00;All;Batteries Prosumer;2030;0;0
+PL00;All;Batteries Prosumer;2035;0;4527
+PL00;All;Batteries Prosumer;2040;0;10613
+PL00;All;Batteries Prosumer;2045;0;14121
+PL00;All;Batteries Prosumer;2050;0;16931
+PT00;All;Batteries Prosumer;2030;128;165
+PT00;All;Batteries Prosumer;2035;178;323
+PT00;All;Batteries Prosumer;2040;228;481
+PT00;All;Batteries Prosumer;2045;228;481
+PT00;All;Batteries Prosumer;2050;228;481
+RO00;All;Batteries Prosumer;2030;99;116
+RO00;All;Batteries Prosumer;2035;177;236
+RO00;All;Batteries Prosumer;2040;254;357
+RO00;All;Batteries Prosumer;2045;265;507
+RO00;All;Batteries Prosumer;2050;276;656
+RS00;All;Batteries Prosumer;2030;0;13
+RS00;All;Batteries Prosumer;2035;0;30
+RS00;All;Batteries Prosumer;2040;0;47
+RS00;All;Batteries Prosumer;2045;0;56
+RS00;All;Batteries Prosumer;2050;0;65
+SE01;All;Batteries Prosumer;2030;0;0
+SE01;All;Batteries Prosumer;2035;0;0
+SE01;All;Batteries Prosumer;2040;0;0
+SE01;All;Batteries Prosumer;2045;0;0
+SE01;All;Batteries Prosumer;2050;0;0
+SE02;All;Batteries Prosumer;2030;33;200
+SE02;All;Batteries Prosumer;2035;67;400
+SE02;All;Batteries Prosumer;2040;100;600
+SE02;All;Batteries Prosumer;2045;150;900
+SE02;All;Batteries Prosumer;2050;200;1200
+SE03;All;Batteries Prosumer;2030;485;980
+SE03;All;Batteries Prosumer;2035;970;2234
+SE03;All;Batteries Prosumer;2040;1456;3487
+SE03;All;Batteries Prosumer;2045;2183;4609
+SE03;All;Batteries Prosumer;2050;2911;5730
+SE04;All;Batteries Prosumer;2030;212;420
+SE04;All;Batteries Prosumer;2035;423;930
+SE04;All;Batteries Prosumer;2040;635;1440
+SE04;All;Batteries Prosumer;2045;952;1905
+SE04;All;Batteries Prosumer;2050;1270;2370
+SI00;All;Batteries Prosumer;2030;1102;1385
+SI00;All;Batteries Prosumer;2035;1642;2346
+SI00;All;Batteries Prosumer;2040;2182;3306
+SI00;All;Batteries Prosumer;2045;2722;4353
+SI00;All;Batteries Prosumer;2050;3262;5400
+SK00;All;Batteries Prosumer;2030;0;0
+SK00;All;Batteries Prosumer;2035;405;445
+SK00;All;Batteries Prosumer;2040;797;900
+SK00;All;Batteries Prosumer;2045;992;1128
+SK00;All;Batteries Prosumer;2050;1158;1324
+UK00;All;Batteries Prosumer;2030;484;1016
+UK00;All;Batteries Prosumer;2035;4572;5781
+UK00;All;Batteries Prosumer;2040;8659;10546
+UK00;All;Batteries Prosumer;2045;11071;12015
+UK00;All;Batteries Prosumer;2050;13483;13483
+AL00;All;Batteries Utility;2030;0;390
+AL00;All;Batteries Utility;2035;0;641
+AL00;All;Batteries Utility;2040;0;891
+AL00;All;Batteries Utility;2045;0;928
+AL00;All;Batteries Utility;2050;0;966
+AT00;All;Batteries Utility;2030;46;114
+AT00;All;Batteries Utility;2035;109;207
+AT00;All;Batteries Utility;2040;173;300
+AT00;All;Batteries Utility;2045;239;594
+AT00;All;Batteries Utility;2050;304;887
+BA00;All;Batteries Utility;2030;0;296
+BA00;All;Batteries Utility;2035;0;634
+BA00;All;Batteries Utility;2040;0;972
+BA00;All;Batteries Utility;2045;0;1214
+BA00;All;Batteries Utility;2050;0;1456
+BE00;All;Batteries Utility;2030;1105;10982
+BE00;All;Batteries Utility;2035;1105;19418
+BE00;All;Batteries Utility;2040;1105;27853
+BE00;All;Batteries Utility;2045;1118;34825
+BE00;All;Batteries Utility;2050;1130;41797
+BG00;All;Batteries Utility;2030;4923;9843
+BG00;All;Batteries Utility;2035;4667;9843
+BG00;All;Batteries Utility;2040;4411;9843
+BG00;All;Batteries Utility;2045;4197;9843
+BG00;All;Batteries Utility;2050;3982;9843
+CH00;All;Batteries Utility;2030;0;0
+CH00;All;Batteries Utility;2035;0;0
+CH00;All;Batteries Utility;2040;0;0
+CH00;All;Batteries Utility;2045;0;0
+CH00;All;Batteries Utility;2050;0;0
+CY00;All;Batteries Utility;2030;0;447
+CY00;All;Batteries Utility;2035;1182;1598
+CY00;All;Batteries Utility;2040;2364;2749
+CY00;All;Batteries Utility;2045;2720;3382
+CY00;All;Batteries Utility;2050;3076;4014
+CZ00;All;Batteries Utility;2030;564;564
+CZ00;All;Batteries Utility;2035;1426;1652
+CZ00;All;Batteries Utility;2040;2288;2740
+CZ00;All;Batteries Utility;2045;2949;3817
+CZ00;All;Batteries Utility;2050;3610;4893
+DE00;All;Batteries Utility;2030;6401;6401
+DE00;All;Batteries Utility;2035;34250;37146
+DE00;All;Batteries Utility;2040;62099;67891
+DE00;All;Batteries Utility;2045;86598;98850
+DE00;All;Batteries Utility;2050;111097;129810
+DEKF;All;Batteries Utility;2030;0;0
+DEKF;All;Batteries Utility;2035;0;0
+DEKF;All;Batteries Utility;2040;0;0
+DEKF;All;Batteries Utility;2045;0;0
+DEKF;All;Batteries Utility;2050;0;0
+DKE1;All;Batteries Utility;2030;0;2647
+DKE1;All;Batteries Utility;2035;0;2894
+DKE1;All;Batteries Utility;2040;0;3140
+DKE1;All;Batteries Utility;2045;0;3433
+DKE1;All;Batteries Utility;2050;0;3726
+DKKF;All;Batteries Utility;2030;0;0
+DKKF;All;Batteries Utility;2035;0;0
+DKKF;All;Batteries Utility;2040;0;0
+DKKF;All;Batteries Utility;2045;0;0
+DKKF;All;Batteries Utility;2050;0;0
+DKW1;All;Batteries Utility;2030;1850;6877
+DKW1;All;Batteries Utility;2035;1830;6877
+DKW1;All;Batteries Utility;2040;1810;6877
+DKW1;All;Batteries Utility;2045;1776;6877
+DKW1;All;Batteries Utility;2050;1742;6877
+EE00;All;Batteries Utility;2030;0;0
+EE00;All;Batteries Utility;2035;0;283
+EE00;All;Batteries Utility;2040;0;301
+EE00;All;Batteries Utility;2045;0;395
+EE00;All;Batteries Utility;2050;0;485
+ES00;All;Batteries Utility;2030;5000;7400
+ES00;All;Batteries Utility;2035;15500;21000
+ES00;All;Batteries Utility;2040;26000;34600
+ES00;All;Batteries Utility;2045;29000;37900
+ES00;All;Batteries Utility;2050;32000;41200
+FI00;All;Batteries Utility;2030;1311;2452
+FI00;All;Batteries Utility;2035;2214;4505
+FI00;All;Batteries Utility;2040;3117;6558
+FI00;All;Batteries Utility;2045;4502;10618
+FI00;All;Batteries Utility;2050;5887;14677
+FR00;All;Batteries Utility;2030;0;0
+FR00;All;Batteries Utility;2035;6358;13424
+FR00;All;Batteries Utility;2040;10513;22550
+FR00;All;Batteries Utility;2045;17038;39687
+FR00;All;Batteries Utility;2050;24461;59107
+GR00;All;Batteries Utility;2030;0;0
+GR00;All;Batteries Utility;2035;11715;12838
+GR00;All;Batteries Utility;2040;11481;12399
+GR00;All;Batteries Utility;2045;21096;24973
+GR00;All;Batteries Utility;2050;33048;40618
+GR03;All;Batteries Utility;2030;0;0
+GR03;All;Batteries Utility;2035;0;0
+GR03;All;Batteries Utility;2040;0;0
+GR03;All;Batteries Utility;2045;0;0
+GR03;All;Batteries Utility;2050;0;0
+HR00;All;Batteries Utility;2030;309;713
+HR00;All;Batteries Utility;2035;337;713
+HR00;All;Batteries Utility;2040;365;713
+HR00;All;Batteries Utility;2045;303;678
+HR00;All;Batteries Utility;2050;241;632
+HU00;All;Batteries Utility;2030;840;1214
+HU00;All;Batteries Utility;2035;897;1214
+HU00;All;Batteries Utility;2040;954;1215
+HU00;All;Batteries Utility;2045;954;1215
+HU00;All;Batteries Utility;2050;954;1215
+IE00;All;Batteries Utility;2030;8461;8461
+IE00;All;Batteries Utility;2035;23609;23609
+IE00;All;Batteries Utility;2040;38756;38756
+IE00;All;Batteries Utility;2045;45481;45481
+IE00;All;Batteries Utility;2050;52206;52206
+ITA0;All;Batteries Utility;2030;0;0
+ITA0;All;Batteries Utility;2035;0;0
+ITA0;All;Batteries Utility;2040;0;0
+ITA0;All;Batteries Utility;2045;0;0
+ITA0;All;Batteries Utility;2050;0;0
+ITCA;All;Batteries Utility;2030;5624;7001
+ITCA;All;Batteries Utility;2035;9624;10994
+ITCA;All;Batteries Utility;2040;13624;14987
+ITCA;All;Batteries Utility;2045;13624;18027
+ITCA;All;Batteries Utility;2050;13624;21066
+ITCN;All;Batteries Utility;2030;80;141
+ITCN;All;Batteries Utility;2035;3280;6021
+ITCN;All;Batteries Utility;2040;6480;11900
+ITCN;All;Batteries Utility;2045;6480;13815
+ITCN;All;Batteries Utility;2050;6480;15731
+ITCS;All;Batteries Utility;2030;5380;5918
+ITCS;All;Batteries Utility;2035;14188;15607
+ITCS;All;Batteries Utility;2040;22996;25296
+ITCS;All;Batteries Utility;2045;22996;32968
+ITCS;All;Batteries Utility;2050;22996;40640
+ITN1;All;Batteries Utility;2030;3224;5848
+ITN1;All;Batteries Utility;2035;3224;6074
+ITN1;All;Batteries Utility;2040;3224;6301
+ITN1;All;Batteries Utility;2045;3224;7315
+ITN1;All;Batteries Utility;2050;3224;8329
+ITS1;All;Batteries Utility;2030;33609;36970
+ITS1;All;Batteries Utility;2035;39609;43570
+ITS1;All;Batteries Utility;2040;45609;50170
+ITS1;All;Batteries Utility;2045;45609;76752
+ITS1;All;Batteries Utility;2050;45609;103334
+ITSA;All;Batteries Utility;2030;10360;11367
+ITSA;All;Batteries Utility;2035;14360;15766
+ITSA;All;Batteries Utility;2040;18360;20164
+ITSA;All;Batteries Utility;2045;18360;30330
+ITSA;All;Batteries Utility;2050;18360;40496
+ITSI;All;Batteries Utility;2030;20488;22436
+ITSI;All;Batteries Utility;2035;26488;31023
+ITSI;All;Batteries Utility;2040;32488;39610
+ITSI;All;Batteries Utility;2045;32488;55576
+ITSI;All;Batteries Utility;2050;32488;71543
+LT00;All;Batteries Utility;2030;0;0
+LT00;All;Batteries Utility;2035;2272;2272
+LT00;All;Batteries Utility;2040;2268;2268
+LT00;All;Batteries Utility;2045;2912;2912
+LT00;All;Batteries Utility;2050;3658;3658
+LUB1;All;Batteries Utility;2030;0;0
+LUB1;All;Batteries Utility;2035;0;0
+LUB1;All;Batteries Utility;2040;0;0
+LUB1;All;Batteries Utility;2045;0;0
+LUB1;All;Batteries Utility;2050;0;0
+LUF1;All;Batteries Utility;2030;0;0
+LUF1;All;Batteries Utility;2035;0;0
+LUF1;All;Batteries Utility;2040;0;0
+LUF1;All;Batteries Utility;2045;0;0
+LUF1;All;Batteries Utility;2050;0;0
+LUG1;All;Batteries Utility;2030;8;12
+LUG1;All;Batteries Utility;2035;11;22
+LUG1;All;Batteries Utility;2040;15;32
+LUG1;All;Batteries Utility;2045;14;32
+LUG1;All;Batteries Utility;2050;14;32
+LUV1;All;Batteries Utility;2030;0;0
+LUV1;All;Batteries Utility;2035;0;0
+LUV1;All;Batteries Utility;2040;0;0
+LUV1;All;Batteries Utility;2045;0;0
+LUV1;All;Batteries Utility;2050;0;0
+LV00;All;Batteries Utility;2030;149;510
+LV00;All;Batteries Utility;2035;144;510
+LV00;All;Batteries Utility;2040;139;510
+LV00;All;Batteries Utility;2045;70;523
+LV00;All;Batteries Utility;2050;0;535
+ME00;All;Batteries Utility;2030;0;1226
+ME00;All;Batteries Utility;2035;0;1313
+ME00;All;Batteries Utility;2040;0;1399
+ME00;All;Batteries Utility;2045;0;1458
+ME00;All;Batteries Utility;2050;0;1517
+MK00;All;Batteries Utility;2030;0;1033
+MK00;All;Batteries Utility;2035;0;1564
+MK00;All;Batteries Utility;2040;0;2095
+MK00;All;Batteries Utility;2045;0;2183
+MK00;All;Batteries Utility;2050;0;2271
+MT00;All;Batteries Utility;2030;0;30
+MT00;All;Batteries Utility;2035;0;45
+MT00;All;Batteries Utility;2040;0;59
+MT00;All;Batteries Utility;2045;0;59
+MT00;All;Batteries Utility;2050;0;59
+NL00;All;Batteries Utility;2030;8722;11190
+NL00;All;Batteries Utility;2035;19691;24477
+NL00;All;Batteries Utility;2040;30661;37764
+NL00;All;Batteries Utility;2045;41477;51786
+NL00;All;Batteries Utility;2050;52294;65809
+NOM1;All;Batteries Utility;2030;0;0
+NOM1;All;Batteries Utility;2035;0;0
+NOM1;All;Batteries Utility;2040;0;0
+NOM1;All;Batteries Utility;2045;0;0
+NOM1;All;Batteries Utility;2050;0;0
+NON1;All;Batteries Utility;2030;0;0
+NON1;All;Batteries Utility;2035;0;0
+NON1;All;Batteries Utility;2040;0;0
+NON1;All;Batteries Utility;2045;0;0
+NON1;All;Batteries Utility;2050;0;0
+NOS0;All;Batteries Utility;2030;0;0
+NOS0;All;Batteries Utility;2035;0;0
+NOS0;All;Batteries Utility;2040;0;0
+NOS0;All;Batteries Utility;2045;0;0
+NOS0;All;Batteries Utility;2050;0;0
+PL00;All;Batteries Utility;2030;0;0
+PL00;All;Batteries Utility;2035;0;11084
+PL00;All;Batteries Utility;2040;0;15919
+PL00;All;Batteries Utility;2045;0;24044
+PL00;All;Batteries Utility;2050;0;32866
+PT00;All;Batteries Utility;2030;2872;3690
+PT00;All;Batteries Utility;2035;3083;5330
+PT00;All;Batteries Utility;2040;3294;6970
+PT00;All;Batteries Utility;2045;3294;6970
+PT00;All;Batteries Utility;2050;3294;6970
+RO00;All;Batteries Utility;2030;701;819
+RO00;All;Batteries Utility;2035;1023;1356
+RO00;All;Batteries Utility;2040;1346;1893
+RO00;All;Batteries Utility;2045;1335;2522
+RO00;All;Batteries Utility;2050;1324;3151
+RS00;All;Batteries Utility;2030;0;28
+RS00;All;Batteries Utility;2035;0;64
+RS00;All;Batteries Utility;2040;0;100
+RS00;All;Batteries Utility;2045;0;119
+RS00;All;Batteries Utility;2050;0;138
+SE01;All;Batteries Utility;2030;0;0
+SE01;All;Batteries Utility;2035;0;0
+SE01;All;Batteries Utility;2040;0;0
+SE01;All;Batteries Utility;2045;0;0
+SE01;All;Batteries Utility;2050;0;0
+SE02;All;Batteries Utility;2030;0;0
+SE02;All;Batteries Utility;2035;0;0
+SE02;All;Batteries Utility;2040;0;0
+SE02;All;Batteries Utility;2045;0;0
+SE02;All;Batteries Utility;2050;0;0
+SE03;All;Batteries Utility;2030;0;0
+SE03;All;Batteries Utility;2035;0;0
+SE03;All;Batteries Utility;2040;0;0
+SE03;All;Batteries Utility;2045;0;0
+SE03;All;Batteries Utility;2050;0;0
+SE04;All;Batteries Utility;2030;0;0
+SE04;All;Batteries Utility;2035;0;0
+SE04;All;Batteries Utility;2040;0;0
+SE04;All;Batteries Utility;2045;0;0
+SE04;All;Batteries Utility;2050;0;0
+SI00;All;Batteries Utility;2030;0;0
+SI00;All;Batteries Utility;2035;0;0
+SI00;All;Batteries Utility;2040;0;0
+SI00;All;Batteries Utility;2045;0;0
+SI00;All;Batteries Utility;2050;0;0
+SK00;All;Batteries Utility;2030;0;0
+SK00;All;Batteries Utility;2035;1041,012;1143,45575
+SK00;All;Batteries Utility;2040;1417,6;1599,722222
+SK00;All;Batteries Utility;2045;1925,55;2190,113914
+SK00;All;Batteries Utility;2050;2461,6;2813,257143
+UK00;All;Batteries Utility;2030;670,7878889;1406,976109
+UK00;All;Batteries Utility;2035;5162,792993;6582,864292
+UK00;All;Batteries Utility;2040;9654,798097;11758,75248
+UK00;All;Batteries Utility;2045;11240,88472;12292,86191
+UK00;All;Batteries Utility;2050;12826,97135;12826,97135
+AL00;All;Electrolyzers;2030;0;9999
+AL00;All;Electrolyzers;2035;0;19999
+AL00;All;Electrolyzers;2040;0;29999
+AL00;All;Electrolyzers;2045;0;39999
+AL00;All;Electrolyzers;2050;0;49999
+AT00;All;Electrolyzers;2030;0;9999
+AT00;All;Electrolyzers;2035;0;19999
+AT00;All;Electrolyzers;2040;0;29999
+AT00;All;Electrolyzers;2045;0;39999
+AT00;All;Electrolyzers;2050;0;49999
+BA00;All;Electrolyzers;2030;0;9999
+BA00;All;Electrolyzers;2035;0;19999
+BA00;All;Electrolyzers;2040;0;29999
+BA00;All;Electrolyzers;2045;0;39999
+BA00;All;Electrolyzers;2050;0;49999
+BE00;All;Electrolyzers;2030;0;9999
+BE00;All;Electrolyzers;2035;0;19999
+BE00;All;Electrolyzers;2040;0;29999
+BE00;All;Electrolyzers;2045;0;39999
+BE00;All;Electrolyzers;2050;0;49999
+BG00;All;Electrolyzers;2030;0;9999
+BG00;All;Electrolyzers;2035;0;19999
+BG00;All;Electrolyzers;2040;0;29999
+BG00;All;Electrolyzers;2045;0;39999
+BG00;All;Electrolyzers;2050;0;49999
+CH00;All;Electrolyzers;2030;0;9999
+CH00;All;Electrolyzers;2035;0;19999
+CH00;All;Electrolyzers;2040;0;29999
+CH00;All;Electrolyzers;2045;0;39999
+CH00;All;Electrolyzers;2050;0;49999
+CY00;All;Electrolyzers;2030;0;9999
+CY00;All;Electrolyzers;2035;0;19999
+CY00;All;Electrolyzers;2040;0;29999
+CY00;All;Electrolyzers;2045;0;39999
+CY00;All;Electrolyzers;2050;0;49999
+CZ00;All;Electrolyzers;2030;0;9999
+CZ00;All;Electrolyzers;2035;0;19999
+CZ00;All;Electrolyzers;2040;0;29999
+CZ00;All;Electrolyzers;2045;0;39999
+CZ00;All;Electrolyzers;2050;0;49999
+DE00;All;Electrolyzers;2030;0;9999
+DE00;All;Electrolyzers;2035;0;19999
+DE00;All;Electrolyzers;2040;0;29999
+DE00;All;Electrolyzers;2045;0;39999
+DE00;All;Electrolyzers;2050;0;49999
+DEKF;All;Electrolyzers;2030;0;9999
+DEKF;All;Electrolyzers;2035;0;19999
+DEKF;All;Electrolyzers;2040;0;29999
+DEKF;All;Electrolyzers;2045;0;39999
+DEKF;All;Electrolyzers;2050;0;49999
+DKE1;All;Electrolyzers;2030;0;9999
+DKE1;All;Electrolyzers;2035;0;19999
+DKE1;All;Electrolyzers;2040;0;29999
+DKE1;All;Electrolyzers;2045;0;39999
+DKE1;All;Electrolyzers;2050;0;49999
+DKKF;All;Electrolyzers;2030;0;9999
+DKKF;All;Electrolyzers;2035;0;19999
+DKKF;All;Electrolyzers;2040;0;29999
+DKKF;All;Electrolyzers;2045;0;39999
+DKKF;All;Electrolyzers;2050;0;49999
+DKW1;All;Electrolyzers;2030;0;9999
+DKW1;All;Electrolyzers;2035;0;19999
+DKW1;All;Electrolyzers;2040;0;29999
+DKW1;All;Electrolyzers;2045;0;39999
+DKW1;All;Electrolyzers;2050;0;49999
+EE00;All;Electrolyzers;2030;0;9999
+EE00;All;Electrolyzers;2035;0;19999
+EE00;All;Electrolyzers;2040;0;29999
+EE00;All;Electrolyzers;2045;0;39999
+EE00;All;Electrolyzers;2050;0;49999
+ES00;All;Electrolyzers;2030;0;9999
+ES00;All;Electrolyzers;2035;0;19999
+ES00;All;Electrolyzers;2040;0;29999
+ES00;All;Electrolyzers;2045;0;39999
+ES00;All;Electrolyzers;2050;0;49999
+FI00;All;Electrolyzers;2030;0;9999
+FI00;All;Electrolyzers;2035;0;19999
+FI00;All;Electrolyzers;2040;0;29999
+FI00;All;Electrolyzers;2045;0;39999
+FI00;All;Electrolyzers;2050;0;49999
+FR00;All;Electrolyzers;2030;0;9999
+FR00;All;Electrolyzers;2035;0;19999
+FR00;All;Electrolyzers;2040;0;29999
+FR00;All;Electrolyzers;2045;0;39999
+FR00;All;Electrolyzers;2050;0;49999
+GR00;All;Electrolyzers;2030;0;9999
+GR00;All;Electrolyzers;2035;0;19999
+GR00;All;Electrolyzers;2040;0;29999
+GR00;All;Electrolyzers;2045;0;39999
+GR00;All;Electrolyzers;2050;0;49999
+GR03;All;Electrolyzers;2030;0;9999
+GR03;All;Electrolyzers;2035;0;19999
+GR03;All;Electrolyzers;2040;0;29999
+GR03;All;Electrolyzers;2045;0;39999
+GR03;All;Electrolyzers;2050;0;49999
+HR00;All;Electrolyzers;2030;0;9999
+HR00;All;Electrolyzers;2035;0;19999
+HR00;All;Electrolyzers;2040;0;29999
+HR00;All;Electrolyzers;2045;0;39999
+HR00;All;Electrolyzers;2050;0;49999
+HU00;All;Electrolyzers;2030;0;9999
+HU00;All;Electrolyzers;2035;0;19999
+HU00;All;Electrolyzers;2040;0;29999
+HU00;All;Electrolyzers;2045;0;39999
+HU00;All;Electrolyzers;2050;0;49999
+IE00;All;Electrolyzers;2030;0;9999
+IE00;All;Electrolyzers;2035;0;19999
+IE00;All;Electrolyzers;2040;0;29999
+IE00;All;Electrolyzers;2045;0;39999
+IE00;All;Electrolyzers;2050;0;49999
+ITA0;All;Electrolyzers;2030;0;9999
+ITA0;All;Electrolyzers;2035;0;19999
+ITA0;All;Electrolyzers;2040;0;29999
+ITA0;All;Electrolyzers;2045;0;39999
+ITA0;All;Electrolyzers;2050;0;49999
+ITCA;All;Electrolyzers;2030;0;9999
+ITCA;All;Electrolyzers;2035;0;19999
+ITCA;All;Electrolyzers;2040;0;29999
+ITCA;All;Electrolyzers;2045;0;39999
+ITCA;All;Electrolyzers;2050;0;49999
+ITCN;All;Electrolyzers;2030;0;9999
+ITCN;All;Electrolyzers;2035;0;19999
+ITCN;All;Electrolyzers;2040;0;29999
+ITCN;All;Electrolyzers;2045;0;39999
+ITCN;All;Electrolyzers;2050;0;49999
+ITCS;All;Electrolyzers;2030;0;9999
+ITCS;All;Electrolyzers;2035;0;19999
+ITCS;All;Electrolyzers;2040;0;29999
+ITCS;All;Electrolyzers;2045;0;39999
+ITCS;All;Electrolyzers;2050;0;49999
+ITN1;All;Electrolyzers;2030;0;9999
+ITN1;All;Electrolyzers;2035;0;19999
+ITN1;All;Electrolyzers;2040;0;29999
+ITN1;All;Electrolyzers;2045;0;39999
+ITN1;All;Electrolyzers;2050;0;49999
+ITS1;All;Electrolyzers;2030;0;9999
+ITS1;All;Electrolyzers;2035;0;19999
+ITS1;All;Electrolyzers;2040;0;29999
+ITS1;All;Electrolyzers;2045;0;39999
+ITS1;All;Electrolyzers;2050;0;49999
+ITSA;All;Electrolyzers;2030;0;9999
+ITSA;All;Electrolyzers;2035;0;19999
+ITSA;All;Electrolyzers;2040;0;29999
+ITSA;All;Electrolyzers;2045;0;39999
+ITSA;All;Electrolyzers;2050;0;49999
+ITSI;All;Electrolyzers;2030;0;9999
+ITSI;All;Electrolyzers;2035;0;19999
+ITSI;All;Electrolyzers;2040;0;29999
+ITSI;All;Electrolyzers;2045;0;39999
+ITSI;All;Electrolyzers;2050;0;49999
+LT00;All;Electrolyzers;2030;0;9999
+LT00;All;Electrolyzers;2035;0;19999
+LT00;All;Electrolyzers;2040;0;29999
+LT00;All;Electrolyzers;2045;0;39999
+LT00;All;Electrolyzers;2050;0;49999
+LUB1;All;Electrolyzers;2030;0;9999
+LUB1;All;Electrolyzers;2035;0;19999
+LUB1;All;Electrolyzers;2040;0;29999
+LUB1;All;Electrolyzers;2045;0;39999
+LUB1;All;Electrolyzers;2050;0;49999
+LUF1;All;Electrolyzers;2030;0;9999
+LUF1;All;Electrolyzers;2035;0;19999
+LUF1;All;Electrolyzers;2040;0;29999
+LUF1;All;Electrolyzers;2045;0;39999
+LUF1;All;Electrolyzers;2050;0;49999
+LUG1;All;Electrolyzers;2030;0;9999
+LUG1;All;Electrolyzers;2035;0;19999
+LUG1;All;Electrolyzers;2040;0;29999
+LUG1;All;Electrolyzers;2045;0;39999
+LUG1;All;Electrolyzers;2050;0;49999
+LUV1;All;Electrolyzers;2030;0;9999
+LUV1;All;Electrolyzers;2035;0;19999
+LUV1;All;Electrolyzers;2040;0;29999
+LUV1;All;Electrolyzers;2045;0;39999
+LUV1;All;Electrolyzers;2050;0;49999
+LV00;All;Electrolyzers;2030;0;9999
+LV00;All;Electrolyzers;2035;0;19999
+LV00;All;Electrolyzers;2040;0;29999
+LV00;All;Electrolyzers;2045;0;39999
+LV00;All;Electrolyzers;2050;0;49999
+ME00;All;Electrolyzers;2030;0;9999
+ME00;All;Electrolyzers;2035;0;19999
+ME00;All;Electrolyzers;2040;0;29999
+ME00;All;Electrolyzers;2045;0;39999
+ME00;All;Electrolyzers;2050;0;49999
+MK00;All;Electrolyzers;2030;0;9999
+MK00;All;Electrolyzers;2035;0;19999
+MK00;All;Electrolyzers;2040;0;29999
+MK00;All;Electrolyzers;2045;0;39999
+MK00;All;Electrolyzers;2050;0;49999
+MT00;All;Electrolyzers;2030;0;9999
+MT00;All;Electrolyzers;2035;0;19999
+MT00;All;Electrolyzers;2040;0;29999
+MT00;All;Electrolyzers;2045;0;39999
+MT00;All;Electrolyzers;2050;0;49999
+NL00;All;Electrolyzers;2030;0;9999
+NL00;All;Electrolyzers;2035;0;19999
+NL00;All;Electrolyzers;2040;0;29999
+NL00;All;Electrolyzers;2045;0;39999
+NL00;All;Electrolyzers;2050;0;49999
+NOM1;All;Electrolyzers;2030;0;9999
+NOM1;All;Electrolyzers;2035;0;19999
+NOM1;All;Electrolyzers;2040;0;29999
+NOM1;All;Electrolyzers;2045;0;39999
+NOM1;All;Electrolyzers;2050;0;49999
+NON1;All;Electrolyzers;2030;0;9999
+NON1;All;Electrolyzers;2035;0;19999
+NON1;All;Electrolyzers;2040;0;29999
+NON1;All;Electrolyzers;2045;0;39999
+NON1;All;Electrolyzers;2050;0;49999
+NOS0;All;Electrolyzers;2030;0;9999
+NOS0;All;Electrolyzers;2035;0;19999
+NOS0;All;Electrolyzers;2040;0;29999
+NOS0;All;Electrolyzers;2045;0;39999
+NOS0;All;Electrolyzers;2050;0;49999
+PL00;All;Electrolyzers;2030;0;9999
+PL00;All;Electrolyzers;2035;0;19999
+PL00;All;Electrolyzers;2040;0;29999
+PL00;All;Electrolyzers;2045;0;39999
+PL00;All;Electrolyzers;2050;0;49999
+PT00;All;Electrolyzers;2030;0;9999
+PT00;All;Electrolyzers;2035;0;19999
+PT00;All;Electrolyzers;2040;0;29999
+PT00;All;Electrolyzers;2045;0;39999
+PT00;All;Electrolyzers;2050;0;49999
+RO00;All;Electrolyzers;2030;0;9999
+RO00;All;Electrolyzers;2035;0;19999
+RO00;All;Electrolyzers;2040;0;29999
+RO00;All;Electrolyzers;2045;0;39999
+RO00;All;Electrolyzers;2050;0;49999
+RS00;All;Electrolyzers;2030;0;9999
+RS00;All;Electrolyzers;2035;0;19999
+RS00;All;Electrolyzers;2040;0;29999
+RS00;All;Electrolyzers;2045;0;39999
+RS00;All;Electrolyzers;2050;0;49999
+SE01;All;Electrolyzers;2030;0;9999
+SE01;All;Electrolyzers;2035;0;19999
+SE01;All;Electrolyzers;2040;0;29999
+SE01;All;Electrolyzers;2045;0;39999
+SE01;All;Electrolyzers;2050;0;49999
+SE02;All;Electrolyzers;2030;0;9999
+SE02;All;Electrolyzers;2035;0;19999
+SE02;All;Electrolyzers;2040;0;29999
+SE02;All;Electrolyzers;2045;0;39999
+SE02;All;Electrolyzers;2050;0;49999
+SE03;All;Electrolyzers;2030;0;9999
+SE03;All;Electrolyzers;2035;0;19999
+SE03;All;Electrolyzers;2040;0;29999
+SE03;All;Electrolyzers;2045;0;39999
+SE03;All;Electrolyzers;2050;0;49999
+SE04;All;Electrolyzers;2030;0;9999
+SE04;All;Electrolyzers;2035;0;19999
+SE04;All;Electrolyzers;2040;0;29999
+SE04;All;Electrolyzers;2045;0;39999
+SE04;All;Electrolyzers;2050;0;49999
+SI00;All;Electrolyzers;2030;0;9999
+SI00;All;Electrolyzers;2035;0;19999
+SI00;All;Electrolyzers;2040;0;29999
+SI00;All;Electrolyzers;2045;0;39999
+SI00;All;Electrolyzers;2050;0;49999
+SK00;All;Electrolyzers;2030;0;9999
+SK00;All;Electrolyzers;2035;0;19999
+SK00;All;Electrolyzers;2040;0;29999
+SK00;All;Electrolyzers;2045;0;39999
+SK00;All;Electrolyzers;2050;0;49999
+UK00;All;Electrolyzers;2030;0;9999
+UK00;All;Electrolyzers;2035;0;19999
+UK00;All;Electrolyzers;2040;0;29999
+UK00;All;Electrolyzers;2045;0;39999
+UK00;All;Electrolyzers;2050;0;49999
+UKNI;All;Batteries Prosumer;2030;0;223
+UKNI;All;Batteries Prosumer;2035;0;221
+UKNI;All;Batteries Prosumer;2040;0;219
+UKNI;All;Batteries Prosumer;2045;0;244
+UKNI;All;Batteries Prosumer;2050;0;269
+UKNI;All;Batteries Utility;2030;105;105
+UKNI;All;Batteries Utility;2035;105;245
+UKNI;All;Batteries Utility;2040;105;385
+UKNI;All;Batteries Utility;2045;105;431
+UKNI;All;Batteries Utility;2050;105;478
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
