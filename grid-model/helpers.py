@@ -86,11 +86,14 @@ CARRIERS = [
     "battery",
     "chp",
     "coal",
+    "coal-ccs",
     "lignite",
+    "lignite-ccs",
     "oil-heavy",
     "oil-light",
     "oil-shale",
     "gas",
+    "gas-ccs",
     "h2-ccgt",
     "h2-fuel-cell",
     "hydro-phs",
@@ -106,6 +109,9 @@ CARRIERS = [
     "solar-thermal-w-storage",
     "other-res",
     "uranium",
+    "nuclear",
+    "other-thermal",
+    # "electrolyser"
 ]
 
 ##OPTIONS
@@ -126,11 +132,14 @@ CARRIERS_TO_SIMPLE = {
     "battery": "Battery Storage",
     "chp": "Other thermal",
     "coal": "Other thermal",
+    "coal-ccs": "Other thermal",
     "lignite": "Other thermal",
+    "lignite-ccs": "Other thermal",
     "oil-heavy": "Other thermal",
     "oil-light": "Other thermal",
     "oil-shale": "Other thermal",
     "gas": "Gas",
+    "gas-ccs": "Gas",
     # "electrolyser": "Other thermal",   # conversion tech, not generation
     "other-thermal": "Other thermal",
     "h2-ccgt": "Gas",
@@ -228,9 +237,7 @@ GENERATOR_CARRIERS = [
     "solar-pv-rooftop",
     "solar-thermal",
     "solar-thermal-w-storage",
-    "hydro-ror",  # Run-of-river (no storage)
-    "hydro-pondage",  # Small storage (hours)
-    "hydro-reservoir",  # Large storage (seasonal)
+    "hydro-ror",  # Run-of-river (no storage, flow-through generation)
     "other-res",
     "electrolyser",  # Consumes electricity to produce H2
     "other-thermal",
@@ -238,8 +245,10 @@ GENERATOR_CARRIERS = [
 
 STORAGE_CARRIERS = [
     "battery",
-    "hydro-phs",  # Pumped hydro storage (open loop)
-    "hydro-phs-pure",  # Pumped hydro storage (closed loop)
+    "hydro-phs",  # Pumped hydro storage (open loop) - with natural inflows
+    "hydro-phs-pure",  # Pumped hydro storage (closed loop) - no natural inflows
+    "hydro-pondage",  # Small hydro reservoir (hours to days) - with natural inflows
+    "hydro-reservoir",  # Large hydro reservoir (seasonal) - with natural inflows
 ]
 
 ALL_CARRIERS = GENERATOR_CARRIERS + STORAGE_CARRIERS
@@ -261,20 +270,17 @@ SOLAR_CARRIERS = [
     "solar-thermal-w-storage",
 ]
 
-# Hydro generators (flow-based, some dispatchable)
+# Hydro generators (flow-based, non-dispatchable)
 HYDRO_ROR_CARRIERS = [
-    "hydro-ror",  # Run-of-river: non-dispatchable, follows natural flow
-]
-
-HYDRO_DISPATCHABLE_CARRIERS = [
-    "hydro-pondage",  # Small storage (hours to days)
-    "hydro-reservoir",  # Large storage (seasonal)
+    "hydro-ror",  # Run-of-river: non-dispatchable, follows natural flow (no storage)
 ]
 
 # Storage technologies (Store+Link architecture in PyPSA)
 HYDRO_STORAGE_CARRIERS = [
-    "hydro-phs",  # Pumped hydro storage (open loop)
-    "hydro-phs-pure",  # Pumped hydro storage (closed loop)
+    "hydro-phs",  # Pumped hydro storage (open loop) - with natural inflows
+    "hydro-phs-pure",  # Pumped hydro storage (closed loop) - no natural inflows
+    "hydro-pondage",  # Small hydro reservoir (hours to days storage)
+    "hydro-reservoir",  # Large hydro reservoir (seasonal storage)
 ]
 
 BATTERY_CARRIERS = [
@@ -287,6 +293,7 @@ CONVENTIONAL_CARRIERS = [
     "coal-ccs",
     "gas",
     "gas-ccs",
+    "h2-ccgt",
     "lignite",
     "lignite-ccs",
     "nuclear",
@@ -296,6 +303,7 @@ CONVENTIONAL_CARRIERS = [
     "other-thermal",
     "h2",
     "electrolyser",
+    "other-res",  ##not sure about this one
 ]
 
 # Other renewables
@@ -307,17 +315,17 @@ OTHER_RES_CARRIERS = [
 # Aggregate Groupings (for convenience)
 # ============================================================================
 
-# All Variable Renewable Energy sources
+# All Variable Renewable Energy sources (non-dispatchable, weather-dependent)
 VRE_CARRIERS = WIND_CARRIERS + SOLAR_CARRIERS + HYDRO_ROR_CARRIERS + OTHER_RES_CARRIERS
 
-# All Hydro (generators only, not storage)
-HYDRO_CARRIERS = HYDRO_ROR_CARRIERS + HYDRO_DISPATCHABLE_CARRIERS
+# All Hydro (both generators and storage)
+HYDRO_CARRIERS = HYDRO_ROR_CARRIERS + HYDRO_STORAGE_CARRIERS
 
 # All Storage
 STORAGE_UNIT_CARRIERS = HYDRO_STORAGE_CARRIERS + BATTERY_CARRIERS
 
-# All Renewable Energy Sources (including dispatchable hydro)
-RES_CARRIERS = VRE_CARRIERS + HYDRO_DISPATCHABLE_CARRIERS
+# All Renewable Energy Sources (including all hydro types)
+RES_CARRIERS = VRE_CARRIERS + HYDRO_STORAGE_CARRIERS
 
 
 # ['hydro-phs-reservoir' 'hydro-phs-turbine' 'hydro-phs-pump'

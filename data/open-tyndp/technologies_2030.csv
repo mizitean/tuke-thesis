@@ -41,8 +41,8 @@ gas-ccgt,gas,gas,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.846
 gas-ccgt-ccs,gas,gas-ccs,gas,gas-ccs,gas-ccgt-ccs,0.58,4.4445,3.3494,6.3,22.68,5.7,0.02052,47.55996206896552
 gas-conv,gas,gas,gas,gas,CCGT,0.58,4.4445,3.3494,6.3,22.68,51.57,0.185652,79.84611517241379
 gas-ocgt,gas,gas,gas,gas,OCGT,0.41,4.762,1.7795,6.3,22.68,51.57,0.185652,111.42769951219513
-h2-ccgt,h2-ccgt,h2,h2,h2,central hydrogen CHP,0.5,0.0,5.0,17.6,63.36000000000001,0.0,0.0,126.72000000000001
-h2-fuel-cell,h2-fuel-cell,h2,h2,h2,fuel cell,0.5,0.0,5.0,17.6,63.36000000000001,0.0,0.0,126.72000000000001
+h2-ccgt,h2-ccgt,h2-ccgt,h2,h2-ccgt,central hydrogen CHP,0.5,0.0,5.0,17.6,63.36000000000001,0.0,0.0,126.72000000000001
+h2-fuel-cell,h2-fuel-cell,h2-fuel-cell,h2,h2-fuel-cell,fuel cell,0.5,0.0,5.0,17.6,63.36000000000001,0.0,0.0,126.72000000000001
 hydro-phs-pump,hydro-phs,hydro-phs,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 hydro-phs-pure-pump,hydro-phs-pure,hydro-phs-pure,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
 hydro-phs-pure-reservoir,hydro-phs-pure,hydro-phs-pure,renewable,renewable,hydro,0.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0
