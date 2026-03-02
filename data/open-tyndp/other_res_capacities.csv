@@ -1,0 +1,94 @@
+node,source_type,installed_capacity_mw
+AT00,Small Biomass,657.6445554814278
+AT00,Waste,103.0
+BE00,Small Biomass,566.625
+BE00,Waste,48.0
+BG00,Small Biomass,302.0
+CH00,Not Defined / Splitting not known,425.8891116437436
+CY00,Small Biomass,12.1
+CZ00,Small Biomass,577.2
+CZ00,Geothermal,16.1
+CZ00,Waste,61.5
+DE00,Small Biomass,10000.0
+DE00,Waste,2297.086
+DE00,Not Defined / Splitting not known,770.5
+DKW1,Marine,7.26
+EE00,Small Biomass,152.0
+EE00,Waste,7.65
+EE00,Not Defined / Splitting not known,8.0
+ES00,Not Defined / Splitting not known,1730.0002
+FI00,Small Biomass,2453.72
+FI00,Waste,171.1
+FR00,Small Biomass,675.0000000000002
+FR00,Waste,950.0000000000003
+FR00,Not Defined / Splitting not known,765.0000000000016
+FR15,Small Biomass,6.0
+FR15,Not Defined / Splitting not known,30.0
+GR00,Small Biomass,306.0
+GR00,Not Defined / Splitting not known,124.997
+HR00,Small Biomass,99.0
+HR00,Geothermal,20.0
+HR00,Not Defined / Splitting not known,79.0
+HU00,Small Biomass,119.9767
+HU00,Geothermal,18.73
+HU00,Waste,84.53699999999999
+IE00,Small Biomass,24.0
+IE00,Waste,41.0
+IE00,Not Defined / Splitting not known,5.0
+ITCA,Small Biomass,165.36
+ITCN,Small Biomass,150.47
+ITCN,Geothermal,873.99
+ITCN,Waste,24.4
+ITCS,Small Biomass,326.76
+ITCS,Waste,175.35
+ITN1,Small Biomass,1752.04
+ITN1,Waste,388.35
+ITS1,Small Biomass,377.6
+ITS1,Waste,35.7
+ITSA,Small Biomass,93.95
+ITSI,Small Biomass,85.06
+LT00,Small Biomass,113.83
+LT00,Waste,59.16
+LT00,Not Defined / Splitting not known,36.9
+LUG1,Small Biomass,100.0
+LUG1,Waste,21.3
+LV00,Small Biomass,159.0179090909091
+MD00,Small Biomass,30.0
+ME00,Small Biomass,39.0
+ME00,Waste,10.0
+MK00,Small Biomass,31.0
+NL00,Small Biomass,415.0
+PL00,Small Biomass,1337.839778848357
+PL00,Waste,232.25
+PL00,Not Defined / Splitting not known,584.963943
+PT00,Small Biomass,474.0
+PT00,Geothermal,51.0
+PT00,Marine,201.0
+PT00,Waste,112.0
+PT00,Not Defined / Splitting not known,779.0
+RO00,Small Biomass,137.0
+RS00,Small Biomass,16.41
+RS00,Waste,30.24
+RS00,Not Defined / Splitting not known,84.34
+SE01,Small Biomass,186.2
+SE01,Waste,12.5
+SE02,Small Biomass,736.5699999999999
+SE02,Waste,7.0
+SE03,Small Biomass,2486.255
+SE03,Waste,331.8000000000001
+SE04,Small Biomass,658.5899999999999
+SE04,Waste,39.5
+SI00,Small Biomass,61.2033163882837
+SK00,Small Biomass,187.2340425531915
+SK00,Geothermal,4.0
+SK00,Waste,172.7272727272727
+SK00,Not Defined / Splitting not known,37.188
+TR00,Small Biomass,1750.0
+TR00,Geothermal,2000.0
+TR00,Waste,150.0
+UA00,Small Biomass,500.0
+UK00,Marine,521.21541
+UK00,Not Defined / Splitting not known,2307.95054337
+UKNI,Small Biomass,6.0
+UKNI,Waste,31.0
+UKNI,Not Defined / Splitting not known,40.0

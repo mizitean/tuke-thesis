@@ -1,0 +1,13 @@
+name,bus,control,type,p_nom,p_nom_mod,p_nom_extendable,p_nom_min,p_nom_max,p_nom_set,p_min_pu,p_max_pu,p_set,e_sum_min,e_sum_max,q_set,sign,carrier,marginal_cost,marginal_cost_quadratic,active,build_year,lifetime,capital_cost,efficiency,committable,start_up_cost,shut_down_cost,stand_by_cost,min_up_time,min_down_time,up_time_before,down_time_before,ramp_limit_up,ramp_limit_down,ramp_limit_start_up,ramp_limit_shut_down,weight,p_nom_opt
+BE00-coal,BE00,PQ,,354.4,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,coal,129.25715505617978,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-gas-ccgt,BE00,PQ,,3507.1,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,gas,79.84611517241379,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-gas-conv,BE00,PQ,,871.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,gas,79.84611517241379,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-gas-ocgt,BE00,PQ,,244.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,gas,111.42769951219512,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-nuclear,BE00,PQ,,2077.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,nuclear,22.319406134969327,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-oil-heavy,BE00,PQ,,140.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,oil-heavy,196.07135714285715,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-hydro-ror-turbine,BE00,PQ,,148.2020000000001,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,hydro-ror,0.0,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-onwind,BE00,PQ,,5248.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,onwind,1.4286,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-offwind,BE00,PQ,,4360.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,offwind,0.0212,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-solar-pv-rooftop,BE00,PQ,,13610.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,solar-pv-rooftop,0.0,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-chp-gas-conventional-old-2-industrial-0eur,BE00,PQ,,1594.0,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,other-thermal,79.84611517241379,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0
+BE00-other-res,BE00,PQ,,614.625,0.0,False,0.0,inf,,0.0,1.0,,-inf,inf,0.0,1.0,other-res,0.0,0.0,True,0,inf,0.0,1.0,False,0.0,0.0,0.0,0,0,1,0,,,1.0,1.0,1.0,0.0

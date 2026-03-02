@@ -62,7 +62,7 @@ oil-heavy,oil-heavy,oil-heavy,oil-heavy,oil-heavy,oil-heavy,0.35,6.3493,2.463,9.
 oil-light,oil-light,oil-light,oil-light,oil-light,oil-light,0.35,6.3493,2.463,11.7,42.12,78.0,0.2808,217.67135714285715
 oil-shale,oil-shale,oil-shale,oil-shale,oil-shale,oil-shale,0.35,6.3493,2.463,1.9,6.84,100.0,0.36,142.53215714285716
 onwind,onwind,onwind,renewable,renewable,onwind,1.0,1.4286,1.2167,0.0,0.0,0.0,0.0,1.4286
-other-res,other-res,other-res,renewable,renewable,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+other-res,other-res,other-res,renewable,renewable,,1.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0
 solar-pv-rooftop,solar-pv-rooftop,solar-pv-rooftop,renewable,renewable,solar-rooftop,1.0,0.0,1.4234,0.0,0.0,0.0,0.0,0.0
 solar-pv-utility,solar-pv-utility,solar-pv-utility,renewable,renewable,solar,1.0,0.0106,1.9495,0.0,0.0,0.0,0.0,0.0106
 solar-thermal,solar-thermal,solar-thermal,renewable,renewable,central solar thermal,1.0,0.0,1.4,0.0,0.0,0.0,0.0,0.0
