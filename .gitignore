@@ -26,6 +26,9 @@ ENV/
 bus_generators_plots/
 bus_storage_plots/
 
+debug/
+solved_networks/
+
 # Large data folders
 PECD 2030/
 PEMMDB2/
