@@ -25,6 +25,7 @@ ENV/
 # Generated plots
 bus_generators_plots/
 bus_storage_plots/
+bus_annual_generation_plots/
 
 debug/
 solved_networks/
