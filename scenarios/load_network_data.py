@@ -283,13 +283,22 @@ def _load_pecd_offshore(
 def _load_demand(tyndp_dir: Path, climate_year: int) -> pd.DataFrame:
     """Hourly electricity demand for one climate year.
 
-    Reads data/tyndp2024/Demand Profiles/NT/Electricity demand profiles/
-    2030_National Trends.xlsx.  One sheet per bus, header at row index 7,
-    columns: Date, Month, Day, Hour, 1982, 1983, ..., 2019 (integer CY labels).
+    Uses preprocessed parquet if available (see scenarios/preprocess_xlsx.py),
+    otherwise falls back to reading the original XLSX.
 
     Returns DataFrame: index = 8760 hourly 2030 timestamps, columns = bus codes.
     Units: MWh/h.
     """
+    parquet_path = tyndp_dir / "preprocessed" / "demand_profiles.parquet"
+    idx = pd.date_range("2030-01-01", periods=8760, freq="h")
+
+    if parquet_path.exists():
+        df = pd.read_parquet(parquet_path)
+        demand = df.loc[climate_year].sort_index()
+        demand.index = idx
+        return demand.rename(columns=_NODE_MAP)
+
+    # Fallback: read from XLSX
     xl_path = (
         tyndp_dir
         / "Demand Profiles"
@@ -299,8 +308,6 @@ def _load_demand(tyndp_dir: Path, climate_year: int) -> pd.DataFrame:
     )
     xl = pd.ExcelFile(xl_path, engine="openpyxl")
     bus_data: dict[str, np.ndarray] = {}
-
-    # The NT Excel uses UK node codes; remap to match our bus names (uses module-level _NODE_MAP)
 
     for sheet in xl.sheet_names:
         df = pd.read_excel(xl, sheet_name=sheet, header=7, engine="openpyxl")
@@ -316,7 +323,7 @@ def _load_demand(tyndp_dir: Path, climate_year: int) -> pd.DataFrame:
         bus_data[bus] = values
 
     demand = pd.DataFrame(bus_data)
-    demand.index = pd.date_range("2030-01-01", periods=8760, freq="h")
+    demand.index = idx
     return demand
 
 
@@ -403,13 +410,33 @@ def _load_hydro_for_bus(
 def _load_hydro(tyndp_dir: Path, climate_year: int) -> dict[str, pd.DataFrame]:
     """Hydro inflow time series for all buses, one climate year.
 
-    Reads every PEMMDB_{bus}_Hydro_Inflows_2030.xlsx file in
-    data/tyndp2024/Hydro Inflows/2030/.
+    Uses preprocessed parquet if available (see scenarios/preprocess_xlsx.py),
+    otherwise falls back to reading individual XLSX files.
 
     Returns dict with keys: hydro_ror, hydro_reservoir, hydro_pondage, hydro_ps_open.
     Each value is a DataFrame with 2030 datetime index and bus columns.
-    Units: GWh/h (same convention as the pre-processed flat CSVs).
     """
+    idx = pd.date_range("2030-01-01", periods=8760, freq="h")
+    parquet_path = tyndp_dir / "preprocessed" / "hydro_inflows.parquet"
+
+    if parquet_path.exists():
+        df = pd.read_parquet(parquet_path)
+        cy_df = df.loc[climate_year].sort_index()
+        cy_df.index = idx
+
+        def _extract(hydro_type: str) -> pd.DataFrame:
+            if hydro_type in cy_df.columns.get_level_values("hydro_type"):
+                return cy_df.xs(hydro_type, level="hydro_type", axis=1).rename(columns=_NODE_MAP)
+            return pd.DataFrame(index=idx)
+
+        return {
+            "hydro_ror":        _extract("ror"),
+            "hydro_reservoir":  _extract("reservoir"),
+            "hydro_pondage":    _extract("pondage"),
+            "hydro_ps_open":    _extract("ps_open"),
+        }
+
+    # Fallback: read from individual XLSX files
     hydro_dir = tyndp_dir / "Hydro Inflows" / "2030"
     bus_results: dict[str, dict[str, np.ndarray | None]] = {}
 
@@ -422,18 +449,16 @@ def _load_hydro(tyndp_dir: Path, climate_year: int) -> dict[str, pd.DataFrame]:
             pd.ExcelFile(xl_path, engine="openpyxl"), climate_year
         )
 
-    idx = pd.date_range("2030-01-01", periods=8760, freq="h")
-
     def _df(key: str) -> pd.DataFrame:
         cols = {b: r[key] for b, r in bus_results.items() if r[key] is not None}
         df = pd.DataFrame(cols, index=idx) if cols else pd.DataFrame(index=idx)
         return df.rename(columns=_NODE_MAP)
 
     return {
-        "hydro_ror": _df("ror"),
-        "hydro_reservoir": _df("reservoir"),
-        "hydro_pondage": _df("pondage"),
-        "hydro_ps_open": _df("ps_open"),
+        "hydro_ror":        _df("ror"),
+        "hydro_reservoir":  _df("reservoir"),
+        "hydro_pondage":    _df("pondage"),
+        "hydro_ps_open":    _df("ps_open"),
     }
 
 
