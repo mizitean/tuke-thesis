@@ -21,6 +21,7 @@ ENV/
 # Uncomment if you want to exclude all data
 # data/**/*.csv
 # data/**/*.parquet
+*.parquet
 
 # Generated plots
 bus_generators_plots/
@@ -52,3 +53,8 @@ Thumbs.db
 # Excel files
 *.xlsx
 *.xls
+
+*manifest*
+*.log
+report*
+docs*
